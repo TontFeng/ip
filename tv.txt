@@ -1,86 +1,89 @@
 /*
-瀵艰埅: https://yuanzl77.github.io (鎵撲笉寮€璇锋洿鎹ns鎴栬€呮寕姊 )
-浣犲ソ! 娆㈣繋浣跨敤 LR 鍦ㄧ嚎鎺ュ彛! 
-鐢佃WebView鐗堟湰鑰佷細瀵艰嚧涓€浜涚綉绔欑湅涓嶄簡 鍙兘鍗囩骇WebView鎵嶈兘鎻愬崌鐢佃瑙傚奖浣撻獙銆傚缓璁娇鐢∣K鐗堝奖瑙 (鏀寔鑵捐x5锛屼綋楠屾晥鏋滃拰鎵嬫満宸笉澶 )!
-缃戠珯鎵撲笉寮€锛岀湅涓嶄簡 鍙兘瀛樺湪鍩熷悕姹℃煋锛岃窡鎹ns瑙ｆ瀽鍗冲彲銆 
-鎼繍璇峰娉ㄦ潵婧 ! 璋㈣阿! 
+导航: https://yuanzl77.github.io (打不开请更换dns或者挂梯)
+你好! 欢迎使用 LR 在线接口! 
+电视WebView版本老会导致一些网站看不了 只能升级WebView才能提升电视观影体验。建议使用OK版影视(支持腾讯x5，体验效果和手机差不多)!
+网站打不开，看不了 可能存在域名污染，跟换dns解析即可。
+搬运请备注来源! 谢谢! 
 */
 {
-"spider":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5",
-"wallpaper":"http://楗お纭 .top/娣辫壊澹佺焊/api.php",
+"spider":"./jar/spider.jar;md5;70a85dee4484db10bcebac7fbde59752",
+"warningText": "LR: 接口为公益接口! 使用前请阅读: https://yuanzl77.github.io",
+"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "logo":"http://175.178.251.183:6689/LR.jpg",
   "lives": [
     {
-      "name": "鐩存挱-涓荤敤",
+      "name": "直播-主用",
       "type": 0,
-      "url": "./live.m3u",
+      "url": "https://raw.githubusercontent.com/TontFeng/ip/refs/heads/main/live89.txt",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
     },
     {
-      "name": "鐩存挱-澶囩敤",
+      "name": "影视-直播",
       "type": 0,
-      "url": "https://gcore.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u",
+      "url": "https://tv.iill.top//m3u/Gather"
+    },
+    {
+      "name": "直播-备用",
+      "type": 0,
+      "url": "https://gitee.com/yuanzl77/ip/raw/main/live.m3u",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
     }
   ],
 
 
 "sites":[
-{"key":"璞嗙摚","name":"璞嗙摚锝滆瘎鍒嗭綔鎺ㄨ崘","type":3,"api":"csp_Douban","ext":"./lib/璞嗙摚.json"},
-{"key":"鎬ユ晳","name":"鎬ユ晳锝滄寚鍗楋綔鎺ㄨ崘","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": {"type": "rect", "ratio":3.8}},
-{"key":"棰勫憡","name":"棰勫憡锝滃奖瑙嗭綔LR","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"澶╁ぉ","name":"澶╁ぉ锝滄湁骞匡綔钃濆厜","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"鐑挱","name":"鐑挱锝滄湁骞匡綔钃濆厜","type":3,"api":"csp_AppRB","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"鍗楃摐","name":"鍗楃摐锝滃奖瑙嗭綔楂樻竻","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"鑽愮墖","name":"鑽愮墖锝滅鍔涳綔钃濆厜","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/jianpian.json"},
-{"key":"鏂囨墠","name":"鏂囨墠锝滃奖瑙嗭綔钃濆厜","type":3,"api":"csp_Jpys","searchable":1,"changeable":1},
-{"key":"鑻规灉","name":"鑻规灉锝滃奖瑙嗭綔钃濆厜","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"灏忕唺","name":"灏忕唺锝滃奖瑙嗭綔钃濆厜","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/灏忕唺.js"},
-{"key":"4kav","name":"Kav锝滃奖瑙嗭綔4K","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/4Kav.js"},
-{"key":"LIBVIO","name":"LIB锝滅編鍓э綔钃濆厜","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/LIBVIO.js"},
-{"key":"鍦ㄧ嚎","name":"鍦ㄧ嚎锝滅編鍓э綔钃濆厜","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com","jar":"./jar/LR.jar;md5;806a79547f699a0917e218dd11141a6a"},
-{"key":"moli","name":"榄斿姏锝滅編鍓э綔钃濆厜","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/HDmoli.js"},
-{"key":"浣庣","name":"浣庣锝滅編鍓э綔钃濆厜","type":3,"api":"csp_Ddys","searchable":1,"changeable":1},
-{"key":"鍘傞暱","name":"鍘傞暱锝滅編鍓э綔钃濆厜","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"楗哄瓙","name":"楗哄瓙锝滅編鍓э綔钃濆厜","type":3,"api":"csp_Jiaozi","searchable":1,"changeable":1},
-{"key":"姣旂壒","name":"姣旂壒锝滅編鍓э綔钃濆厜","type":3,"api":"csp_Bttwo","searchable":1,"changeable":1},
-//{"key":"鏃跺厜","name":"鏃跺厜锝滅鍔涳綔钃濆厜","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/褰辨椂鍏 .js"},
-{"key":"绱犵櫧鐧 ","name":"绱犵櫧锝滃奖瑙嗭綔钃濆厜","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"澶х背","name":"澶х背锝滃奖瑙嗭綔钃濆厜","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"鍓у湀","name":"鍓у湀锝滄湁骞匡綔钃濆厜","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.lol"},
-{"key":"澶╁爞","name":"澶╁爞锝滅鍔涳綔钃濆厜","type":3,"api":"csp_MeijuTT","searchable":1,"changeable":1},
-{"key":"閰峰惂","name":"閰峰惂锝滅鍔涳綔钃濆厜","type":3,"api":"csp_KubaCL","searchable":1,"changeable":1},
+{"key":"豆瓣","name":"豆瓣｜评分｜推荐","type":3,"api":"csp_Douban","ext":"./lib/豆瓣.json"},
+{"key":"急救","name":"急救｜指南｜推荐","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": {"type": "rect", "ratio":3.8}},
+{"key":"预告片","name":"预告｜影视｜LR","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/预告片世界.js"},
+{"key":"天天","name":"天天｜有广｜蓝光","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"热播","name":"热播｜有广｜蓝光","type":3,"api":"csp_TTian1","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"南瓜","name":"南瓜｜影视｜高清","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"酷看","name":"酷看｜影视｜蓝光","type":3,"api":"csp_Kukan","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"月夜","name":"月夜｜影视｜蓝光","type":3,"api":"csp_Wexyuyueys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/spider2.jar"},
+{"key":"荐片","name":"荐片｜磁力｜蓝光","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/jianpian.json"},
+{"key":"LIBVIO","name":"LIB｜美剧｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/LIBVIO.js"},
+{"key":"在线","name":"在线｜美剧｜蓝光","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com","jar":"./jar/LR.jar"},
+{"key":"moli","name":"魔力｜美剧｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/HDmoli.js"},
+{"key":"看看","name":"看看｜影视｜蓝光","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider2.jar"},
+{"key":"兄弟","name":"兄弟｜有广｜蓝光","type":3,"api":"csp_Wexxiongdiys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider2.jar"},
+{"key":"最新","name":"最新｜有广｜蓝光","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/mz.jar"},
+{"key":"苹果","name":"苹果｜影视｜蓝光","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"低端","name":"低端｜美剧｜蓝光","type":3,"api":"csp_Ddys","searchable":1,"changeable":1,"jar":"./jar/LR.jar"},
+{"key":"厂长","name":"厂长｜美剧｜蓝光","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"剧圈","name":"剧圈｜影视｜蓝光","type":3,"api":"csp_Juqq","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/mz.jar"},
+{"key":"LIBHD","name":"利播｜美剧｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/LIBHD.js"},
 
-#鍔ㄦ极
-{"key":"鍠电墿","name":"鍠电墿锝滃姩婕綔钃濆厜","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/鍠电墿娆″厓.js"},
-{"key":"婕厓","name":"婕厓锝滃姩婕綔钃濆厜","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/婕鍏 .js"},
-{"key":"cli","name":"Cli锝滃姩婕綔钃濆厜","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/clicli.js"},
-{"key":"mute","name":"Mut锝滃姩婕綔钃濆厜","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/mutefun.js"},
+#动漫
+{"key":"cli","name":"Cli｜动漫｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/clicli.js"},
+{"key":"mute","name":"Mut｜动漫｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/mutefun.js"},
+{"key":"嗷呜","name":"嗷呜｜动漫｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/嗷呜动漫.js"},
+{"key":"咕咕","name":"咕咕｜动漫｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/咕咕番.js"},
+{"key":"樱花","name":"樱花｜动漫｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/樱花动漫.js"},
+{"key":"驴番","name":"驴番｜动漫｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/驴番.js"},
 
-#澶囩敤
-{"key":"鏈哄櫒浜 ","name":"鏈哄櫒锝滃叏骞匡綔钃濆厜","type":3,"api":"csp_Ikanbot","searchable":1,"changeable":1},
+#备用
+{"key":"看美剧","name":"剧社｜美剧｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/看美剧.js"},
+{"key":"可可","name":"可可｜有广｜蓝光","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/mz.jar"},
+{"key":"机器人","name":"机器｜全广｜蓝光","type":3,"api":"csp_Ikanbot","searchable":1,"changeable":1},
 
-#浜戠洏 - PG
-{"key":"閰嶇疆","name":"閰嶇疆锝滀簯鐩橈綔PG","type":3,"api":"csp_Config","searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/tokenm.json","style": {"type": "rect", "ratio":1.5},"jar":"./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"},
-{"key":"鐜╁伓","name":"鐜╁伓锝滀簯鐩橈綔4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG","jar":"./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"},
-{"key":"Wobg","name":"琛ㄥ摜锝滀簯鐩橈綔4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json$$$WOBG","jar":"./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"},
-{"key":"Mogg","name":"鏈ㄥ伓锝滀簯鐩橈綔4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG","jar":"./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"},
-{"key":"鏄撴悳","name":"鏄撴悳锝滀簯鐩橈綔鎼滅储","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/yiso.txt","jar":"./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"},
-{"key":"绉掓悳","name":"绉掓悳锝滀簯鐩橈綔鎼滅储","type":3,"api":"csp_MiaoSou","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"},
-{"key":"娣峰悎鐩 ","name":"娣峰悎锝滀簯鐩橈綔鎼滅储","type":3,"api":"csp_HunHePan","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"},
-{"key":"褰辨悳","name":"褰辨悳锝滀簯鐩橈綔鎼滅储","type":3,"api":"csp_YingSo","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"},
-{"key":"AliShare","name":"闃块噷锝滀簯鐩橈綔鍒嗕韩","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1","jar":"./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"},
-{"key":"鐪嬬悆","name":"鐪嬬悆锝滀綋鑲诧綔楂樻竻","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
-{"key":"push_agent","name":"璇峰嬁鐩镐俊瑙嗛涓箍鍛婏綔LR","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"jar":"./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"},
-{"key":"L","name":"鏁版嵁鏉ユ簮浜庝簰鑱旂綉锝淟R","type":3,"api":"csp_Kugou","searchable":1}
+#云盘
+{"key":"玩偶","name":"玩偶｜云盘｜4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0,"playerType":2,"timeout":25,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TV/uc.txt"},"jar":"./jar/mz.jar"},
+{"key":"易搜","name":"易搜｜云盘｜搜索","type":3,"api":"csp_YiSo","searchable":1,"filterable":1,"playerType":2,"changeable":0,"timeout":25,"ext":"http://127.0.0.1:9978/file/TV/token.txt","jar":"./jar/fm.jar"},
+
+{"key":"看球","name":"看球｜体育｜高清","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
+{"key":"push_agent","name":"请勿相信视频中广告｜LR","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"jar":"./jar/fm.jar"},
+{"key":"L","name":"数据来源于互联网｜LR","type":3,"api":"csp_Kugou","searchable":1}
 ],
 
 "parses":[
-        {"name":"LR","type":0,"url":"https://pl.a6club.com/player/?url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku"]}},
-        {"name":"LR2","type":0,"url":"https://www.yemu.xyz/?url="},
-        {"name":"LR3","type":0,"url":"https://jx.nnxv.cn/tv.php?url="},
-        {"name":"璇烽槄璇 :","type":0,"url":"https://player.8j.pw/player/?url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku"]}},
-        {"name":"yuanzl77.github.io","type":0,"url":"https://jx.xmflv.com/?url="}
+        {"name":"LR","type":1,"url":"http://43.241.18.49:7799/home/JXAPI?type=ys&uid=3061353&sftype=2&key=iqsACEJLMNOVWX1348&url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku"],"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
+        {"name":"LR2","type":1,"url":"https://json.oorl.cn/api/svip.php?key=aYqmunbBybpvTu6hnZ&url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku","seven","NBY"],"header":{"User-Agent":"okhttp-okgo/jeasonlzy"}}},
+        {"name":"LR3","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+        {"name":"LR4","type":1,"url":"http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku","seven","NBY"],"header":{"User-Agent":"okhttp-okgo/jeasonlzy"}}},
+        {"name":"LR5","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
+        {"name":"LR6","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url="},
+        {"name":"请阅读:","type":0,"url":"http://play.shijie.chat/player/ec.php?code=qq&if=1&url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku"]}},
+        {"name":"yuanzl77.github.io","type":0,"url":"https://jx.777jiexi.com/player/?url="}
         ],
 
 "flags":
