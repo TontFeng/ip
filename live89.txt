@@ -29,4 +29,3 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 东方卫视,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-大湾区卫视,https://aktv.top/myaktv/LIVE/f220fb9dee693f1f637a0d780aca3293.m3u8
