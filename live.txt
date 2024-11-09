@@ -111,3 +111,7 @@ NBA经典,https://api.livednow.org/migu/788815380?sign=gAAAAABnJcJqPyFHQA-Zp600i
 广东体育,http://219.159.194.172:8181/tsfile/live/1001_1.m3u8$IPV4『线路3』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.m3u8$IPV4『线路4』
 广东体育,http://113.100.72.190:8899/udp/239.77.0.112:5146$IPV4『线路5』
+
+72家房客,#genre#
+1,https://anym3u8player.com/tv/video-player.php?url=https%3A%2F%2Fyoutu.be%2FHpgbicxVA9o%3Fsi%3DQK_sgCaQgMwG01Ps
+2,https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fyoutu.be%2FHpgbicxVA9o%3Fsi%3DQK_sgCaQgMwG01Ps
