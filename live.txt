@@ -27,7 +27,6 @@
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 经典香港电影,https://api.livednow.org/migu/625703337?sign=gAAAAABnJcJqeZSl1tY8yKpMaPYxLBiZYY6UFLi5qXIc4HEV83u7bqr-kefr3aQ2W6Fj7slWy0JQjWMxntqvsfTbbYZKmu6QxaKnbruMw7_PT5p8YiWzdMPJrhwosHvxenhe94DSEUwzM8ixhRAFjPuhE4vyuSKCCYPFPSdma03VOaA6yUsCx6qMFH-8fli0ScbqOz1gtK-b76pPSHsRgu8KzeVSBgBSMQ%3D%3D
-"美国Local听力磨耳朵,https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
 国内台,#genre#
 CCTV-1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
@@ -84,8 +83,6 @@ CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122642
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8$FM•IPV6 『线路2』
 大湾区卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$LR•IPV6『线路3』
 大湾区卫视,http://kxrj.site:998/123/mg.php?id=dwqws$IPV4『线路4』
-大湾区卫视ak,https://aktv.top/myaktv/LIVE/f220fb9dee693f1f637a0d780aca3293.m3u8
-大湾区卫视2,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_NANFANG/G_NANFANG.m3u8?p=GITV&area=GD_CUCC&$2M
 
 体育台,#genre#
 CCTV-5 体育,https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E8K7V3Vjqwa1MKKvqUi_E3bRWybwa_x3oX2iF9HH-wEJfMaE_5OvwPzGGu3NicPIuQA4yciDbKNZf7joK5ZUFzK0L36mvXUWWl9JorCKCXbQ62LAhIlbf2kzScSCcb9oUHPKWds9wWjWjam34gaFfwW7rHxvnvlcqRaj88yHfSrWqHJghFI-bLaFvNz1HoPw%3D%3D
@@ -108,7 +105,6 @@ CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212256
 SiTV-劲爆体育,https://api.livednow.org/migu/796071336?sign=gAAAAABnJcJqM_HTVabRYY0y1XrkVaxRyUQD0kZEz3VQ3y_m5G88-puxPaYTeeM95vvfLbpAONBNY5IydUY2MsWrBWs4jK885O8HDIs7shB502xQx6f0vQ8TuKxrMXORgONQBsb4X87_7NQJpQ3S8NHmEhlYT7rsDO3yy0U0DjGwpbMiH9AXzspYRIojn1sZlwKdzaQKzsQky9fj4FcWw0muMwKADmu-sQ%3D%3D
 SiTV-魅力足球,https://api.livednow.org/migu/796070308?sign=gAAAAABnJcJqlrFGXuOxwe1Md-XR1vW2Qfvt8UbVbRmGMRw2HCaBotmmxy63qf2FHgoB1vxFJ480IN7nk3fPKKsC14EcSpsIiKAI0k4bTRVRSIM6N0J2Mhr-yHORPlMoC183bY-eRCUBjbWAH5mmWt4aOY1TAiXl6k8v5XlseEvPqOFOHsJbk-s_IR3yRznUz22lTF60_HV6D2H40sColfcl-Ows1xbbBw%3D%3D
 NBA经典,https://api.livednow.org/migu/788815380?sign=gAAAAABnJcJqPyFHQA-Zp600iaXcO2wi3RPQZ5lTFk3FwFUJh4Io8D8IsrJKcctLLuV8h8RqMDSVH7EEcdFcUTRky7BZdCLArlQbcxzCgVW9tMg9ek6CeH-AdrQdumYbDfz9-YXoTJpbwIfPHgOFaMOmgX6qkGEFWb8Eojmwmv_hS3owxCkbbxEi7VeZKIVAGvm3ZQjblZ_K2L6l6yoYUun7gbW5nsMDKQ%3D%3D
-
 
 广东体育,http://113.15.187.190:8181/tsfile/live/1001_1.m3u8$IPV4『线路1』
 广东体育,http://222.218.158.76:8181/tsfile/live/1001_1.m3u8$IPV4『线路2』
