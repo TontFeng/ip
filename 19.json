@@ -12,20 +12,7 @@
 {"key":"drpy_js_18av","name":"18av[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/18av.js"},
 
 
-{"key":"csp_xBPQ_右手影院","name":"右手影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/右手影院.json"},
 
-{"key":"csp_xBPQ_色花堂","name":"色花堂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/色花堂.json","jar":"./JAR/xBPQ_0111.jar"},
-
-{"key":"csp_xBPQ_GAOAA","name":"GAOAA","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./xBPQ/GAOAA.json","jar":"./JAR/XBPQ_0111.jar"},
-
-{"key":"csp_xBPQ_Jable","name":"Jable〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/Jable.json","jar":"./JAR/Yoursmile2.jar"},
-
-{"key":"csp_xBPQ_玩偶姐姐","name":"玩偶姐姐〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/玩偶姐姐.json","jar":"./JAR/Yoursmile2.jar"},
-
-{"key":"csp_xBPQ_朱古力","name":"朱古力〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/朱古力.json","jar":"./JAR/Yoursmile2.jar"},
-
-{"key":"csp_xBPQ_NOWAV","name":"NOWAV〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/NOWAV.json","jar":"./JAR/Yoursmile2.jar"},
 
 {"key":"csp_xBPQ_女优","name":"女优〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/女优.json","jar":"./JAR/Yoursmile2.jar"},
 
@@ -51,28 +38,7 @@
 
 {"key":"美少女资源","name":"美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"淫水机资源","name":"淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"香奶儿资源","name":"香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"白嫖资源","name":"白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"环亚资源","name":"环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"黄AV资源","name":"黄AV资源","type":0, "api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"色色资源","name":"色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"玖玖资源","name":"玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"番号资源","name":"番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"KK写真资源","name":"KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"易看资源-伦理","name":"易看资源-伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"影库资源-伦理","name":"影库资源-伦理","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"酷伦理","name":"酷伦理-伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"博天堂","name":"博天堂-伦理","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"push_agent","name":"推送|云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"./JAR/cs.jar"}
 ],
 
