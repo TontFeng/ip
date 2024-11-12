@@ -57,6 +57,8 @@
 {"key":"av蛋蛋視頻","name":"💖蛋蛋視頻","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":1,"quickSearch":0},
 {"key":"av番號資源","name":"💖番號資源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"av易看資源-倫理","name":"💖易看資源-倫理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"乐播资源","name":"乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"南国资源","name":"南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"av色南國資源","name":"💖色南國資源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"av色窩資源","name":"💖色窩資源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"*S猫资源","name":"🌅S猫時間表","type":0,"api":"https://api.maozyapi.com/inc/api.php"},
