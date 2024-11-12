@@ -7,8 +7,8 @@
 
 {"key":"乐播资源","name":"乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"南国资源","name":"南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"9206_老色资源站","name":"🌅🤩老色资源站","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 ],
 
 
