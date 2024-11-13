@@ -112,7 +112,7 @@ NBA经典,https://api.livednow.org/migu/788815380?sign=gAAAAABnJcJqPyFHQA-Zp600i
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.m3u8$IPV4『线路4』
 广东体育,http://113.100.72.190:8899/udp/239.77.0.112:5146$IPV4『线路5』
 
-🔞🈲加密_1234,#genre#
+加密_1234,#genre#
 驚艷台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 驚艷台,http://18.svi-studio.com:8880/live/584830114073/800309151021/1.m3u8
 
