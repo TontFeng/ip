@@ -80,8 +80,6 @@ SiTV-魅力足球,https://api.livednow.org/migu/796070308?sign=gAAAAABnJcJqlrFGX
 NBA经典,https://api.livednow.org/migu/788815380?sign=gAAAAABnJcJqPyFHQA-Zp600iaXcO2wi3RPQZ5lTFk3FwFUJh4Io8D8IsrJKcctLLuV8h8RqMDSVH7EEcdFcUTRky7BZdCLArlQbcxzCgVW9tMg9ek6CeH-AdrQdumYbDfz9-YXoTJpbwIfPHgOFaMOmgX6qkGEFWb8Eojmwmv_hS3owxCkbbxEi7VeZKIVAGvm3ZQjblZ_K2L6l6yoYUun7gbW5nsMDKQ%3D%3D$『咪咕』
 
 加密_1234,#genre#
-TEST,https://raw.kgithub.com/eklins/FDTV/main/tv/xxx Japan T-Z.m3u
-
 驚艷台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 驚艷台,http://18.svi-studio.com:8880/live/584830114073/800309151021/1.m3u8
 
