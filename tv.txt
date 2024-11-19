@@ -16,17 +16,6 @@
       "type": 0,
       "url": "https://raw.githubusercontent.com/TontFeng/ip/refs/heads/main/live89.txt",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
-    },
-    {
-      "name": "影视-直播",
-      "type": 0,
-      "url": "https://tv.iill.top//m3u/Gather"
-    },
-    {
-      "name": "直播-备用",
-      "type": 0,
-      "url": "https://gitee.com/yuanzl77/ip/raw/main/live.m3u",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
     }
   ],
 
