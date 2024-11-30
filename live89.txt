@@ -28,7 +28,6 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 后备台,#genre#
-馃挐鍜挄棰戦亾馃憠鍏ㄧ綉,#genre#
 CCTV1,https://migu.mytvsuper.xyz/608807420?sign=gAAAAABnSYtm8Y2JgtPvamfx5sAGpbdgkkYx9hoAfEq1fXCY6Swlc5Lr_bCI-Zma48Y9x12nn3RjfSipm5R2yHPGdoG2p65n6t-peUyMMgZBRS7ooGJsDGyGNnDJefXPGOcZ44slIIjaXd5xvG2Qyy9YcQP44fL4V9oR9IayVi1dCmbNoFsdcpldiaebfZPvLqaWSBJsRe2dq6ccuRaPw_FHotTKLz81HQ%3D%3D
 
 CCTV2,https://migu.mytvsuper.xyz/631780532?sign=gAAAAABnSYtmHxaG0l1Z_Ho7hX0LLjYtWlLYFm42gz1keAfYOCkrgDRPXEIZhfCBn1z13f9bSsOci4gQ8m1KhOxTCHhBjVllMYJNvXFY51ntpnQ5GHeePGpxiPPCpThy1nvwLEz7IGabnByezCnjfEP-Tgr2clZNhEOyRGlKu63hVeqxTdDS20_XBI3SNXuhIa_YF8nexi_n6RuB5GcE7r7yXjYIxWusxA%3D%3D
