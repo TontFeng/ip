@@ -27,5 +27,5 @@ CCTV-4中文国际,https://migu.mytvsuper.xyz/631780421?sign=gAAAAABnSYtm2o7U_dl
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-东方卫视,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
+东方卫视,,https://migu.mytvsuper.xyz/651632648?sign=gAAAAABnSYtmEDfqOPEMo5tVmkug0mZ1KnQ1PPbScPvSqnMdyWzM9eZZ1Cu98o2xlcMyRsloSgsfYGqP23r3QNU_dEQraaxpBVrbhixpXhfK9RlgH8PR83dxjZ0etWxY8-sSt8bl2JYE1j5b_PMpCSf80By7orebhRtNnSBcExal9i6lqq7corYivGOUQkFxB6kxPyIsRpPJqflvfknL8mr4ZZagpgCdVA%3D%3D
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
