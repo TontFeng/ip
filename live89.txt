@@ -32,3 +32,6 @@
 後備電視台,#genre#
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+大灣區衛視,http://kxrj.site:1333/86/mg.php?id=dwqws
+廣東衛視,http://kxrj.site:1333/86/mg.php?id=gdws
+中天新聞台,,https://litv.zapi.us.kg/?id=4gtv-4gtv009
