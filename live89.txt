@@ -5,8 +5,8 @@
 無線新聞台,p3p://108.181.32.169:19673/66c414110003f1f047eb7cb30cd84a38
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-CCTV-1综合,https://migu.mytvsuper.xyz/608807420?sign=gAAAAABnSYtm8Y2JgtPvamfx5sAGpbdgkkYx9hoAfEq1fXCY6Swlc5Lr_bCI-Zma48Y9x12nn3RjfSipm5R2yHPGdoG2p65n6t-peUyMMgZBRS7ooGJsDGyGNnDJefXPGOcZ44slIIjaXd5xvG2Qyy9YcQP44fL4V9oR9IayVi1dCmbNoFsdcpldiaebfZPvLqaWSBJsRe2dq6ccuRaPw_FHotTKLz81HQ%3D%3D
-CCTV-4中文國際,https://migu.mytvsuper.xyz/631780421?sign=gAAAAABnSYtm2o7U_dlv2X4CvXiY3lPQWQDHtbgfAwQ8QPOhrYjtASzNYXaoF7K2VoB6Ta9IIWO2mB9zHicC8ftzYE-SFnHjBs6qok3MJWZpkJOVtJWpun8h3nHWscnELDSUOLODBYxSpPvI7Q37sB1l6oqcyKkSzN0e0DbMbuQsS6JdDSrTp7A9iHk6Ndmpwmk0pS13qO-oreAJf2vBu79RbACMDCTkfg%3D%3D
+CCTV-1综合,CCTV1,http://kxrj.site:1333/86/mg.php?id=cctv1
+CCTV-4中文國際,http://kxrj.site:1333/86/mg.php?id=cctv4
 大灣區衛視,http://kxrj.site:1333/86/mg.php?id=qhws
 黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
