@@ -28,5 +28,6 @@ CCTV-4中文國際,http://kxrj.site:1333/86/mg.php?id=cctv4
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+廣東衛視,http://kxrj.site:1333/86/mg.php?id=gdws
 東方衛視,http://kxrj.site:1333/86/mg.php?id=dfws
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
