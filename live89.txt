@@ -34,5 +34,7 @@
 無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 大灣區衛視,http://kxrj.site:1333/86/mg.php?id=dwqws
 廣東衛視,http://kxrj.site:1333/86/mg.php?id=gdws
+鳳凰中文台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+tvbs-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+东森新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
