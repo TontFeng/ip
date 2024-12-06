@@ -40,7 +40,7 @@ CCTV-4A,https://migu.mytvsuper.xyz/631780421?sign=gAAAAABnSYtm2o7U_dlv2X4CvXiY3l
 tvbs-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 东森新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 
-P中天新闻台,p3p://173.208.176.178:31809/613dba64000abeb1c801c02934bb45fc
+popc电影国,p3p://173.208.176.178:31809/663e9212000a54b4285005cd59217563
 P有线新闻台,p3p://173.208.176.178:31809/655bd22c000147307fdff68936807320
 
 
