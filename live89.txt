@@ -1,6 +1,4 @@
 老人电视转播台,#genre#
-
-1-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 1-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 1-翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 1-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -31,9 +29,12 @@
 
 後備電視台,#genre#
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+翡翠台2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 大灣區衛視,http://kxrj.site:1333/86/mg.php?id=dwqws
 廣東衛視,http://kxrj.site:1333/86/mg.php?id=gdws
+CCTV-1A,https://migu.mytvsuper.xyz/608807420?sign=gAAAAABnSYtm8Y2JgtPvamfx5sAGpbdgkkYx9hoAfEq1fXCY6Swlc5Lr_bCI-Zma48Y9x12nn3RjfSipm5R2yHPGdoG2p65n6t-peUyMMgZBRS7ooGJsDGyGNnDJefXPGOcZ44slIIjaXd5xvG2Qyy9YcQP44fL4V9oR9IayVi1dCmbNoFsdcpldiaebfZPvLqaWSBJsRe2dq6ccuRaPw_FHotTKLz81HQ%3D%3D
+CCTV-4A,https://migu.mytvsuper.xyz/631780421?sign=gAAAAABnSYtm2o7U_dlv2X4CvXiY3lPQWQDHtbgfAwQ8QPOhrYjtASzNYXaoF7K2VoB6Ta9IIWO2mB9zHicC8ftzYE-SFnHjBs6qok3MJWZpkJOVtJWpun8h3nHWscnELDSUOLODBYxSpPvI7Q37sB1l6oqcyKkSzN0e0DbMbuQsS6JdDSrTp7A9iHk6Ndmpwmk0pS13qO-oreAJf2vBu79RbACMDCTkfg%3D%3D
 鳳凰中文台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 tvbs-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
