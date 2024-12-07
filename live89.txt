@@ -7,9 +7,9 @@
 2-無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 3-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 4-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-5-CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
-6-CCTV-4中文國際,http://kxrj.site:1333/86/mg.php?id=cctv4
-7-大灣區衛視,http://kxrj.site:1333/86/mg.php?id=dwqws
+5-CCTV-1综合,https://migu.mytvsuper.xyz/608807420?sign=gAAAAABnSYtm8Y2JgtPvamfx5sAGpbdgkkYx9hoAfEq1fXCY6Swlc5Lr_bCI-Zma48Y9x12nn3RjfSipm5R2yHPGdoG2p65n6t-peUyMMgZBRS7ooGJsDGyGNnDJefXPGOcZ44slIIjaXd5xvG2Qyy9YcQP44fL4V9oR9IayVi1dCmbNoFsdcpldiaebfZPvLqaWSBJsRe2dq6ccuRaPw_FHotTKLz81HQ%3D%3D
+6-CCTV-4中文國際,https://migu.mytvsuper.xyz/631780421?sign=gAAAAABnSYtm2o7U_dlv2X4CvXiY3lPQWQDHtbgfAwQ8QPOhrYjtASzNYXaoF7K2VoB6Ta9IIWO2mB9zHicC8ftzYE-SFnHjBs6qok3MJWZpkJOVtJWpun8h3nHWscnELDSUOLODBYxSpPvI7Q37sB1l6oqcyKkSzN0e0DbMbuQsS6JdDSrTp7A9iHk6Ndmpwmk0pS13qO-oreAJf2vBu79RbACMDCTkfg%3D%3D
+7-千禧經典台b,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 8-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 9-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
@@ -33,13 +33,10 @@
 無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 大灣區衛視,http://kxrj.site:1333/86/mg.php?id=dwqws
 廣東衛視,http://kxrj.site:1333/86/mg.php?id=gdws
-CCTV-1A,https://migu.mytvsuper.xyz/608807420?sign=gAAAAABnSYtm8Y2JgtPvamfx5sAGpbdgkkYx9hoAfEq1fXCY6Swlc5Lr_bCI-Zma48Y9x12nn3RjfSipm5R2yHPGdoG2p65n6t-peUyMMgZBRS7ooGJsDGyGNnDJefXPGOcZ44slIIjaXd5xvG2Qyy9YcQP44fL4V9oR9IayVi1dCmbNoFsdcpldiaebfZPvLqaWSBJsRe2dq6ccuRaPw_FHotTKLz81HQ%3D%3D
-CCTV-4A,https://migu.mytvsuper.xyz/631780421?sign=gAAAAABnSYtm2o7U_dlv2X4CvXiY3lPQWQDHtbgfAwQ8QPOhrYjtASzNYXaoF7K2VoB6Ta9IIWO2mB9zHicC8ftzYE-SFnHjBs6qok3MJWZpkJOVtJWpun8h3nHWscnELDSUOLODBYxSpPvI7Q37sB1l6oqcyKkSzN0e0DbMbuQsS6JdDSrTp7A9iHk6Ndmpwmk0pS13qO-oreAJf2vBu79RbACMDCTkfg%3D%3D
 鳳凰中文台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 tvbs-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 东森新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
-
 popc电影国,p3p://173.208.176.178:31809/663e9212000a54b4285005cd59217563
 P有线新闻台,p3p://173.208.176.178:31809/655bd22c000147307fdff68936807320
 
