@@ -7,8 +7,8 @@
 2-無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 3-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 4-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-5-CCTV-1综合,https://migu.mytvsuper.xyz/608807420?sign=gAAAAABnSYtm8Y2JgtPvamfx5sAGpbdgkkYx9hoAfEq1fXCY6Swlc5Lr_bCI-Zma48Y9x12nn3RjfSipm5R2yHPGdoG2p65n6t-peUyMMgZBRS7ooGJsDGyGNnDJefXPGOcZ44slIIjaXd5xvG2Qyy9YcQP44fL4V9oR9IayVi1dCmbNoFsdcpldiaebfZPvLqaWSBJsRe2dq6ccuRaPw_FHotTKLz81HQ%3D%3D
-6-CCTV-4中文國際,https://migu.mytvsuper.xyz/631780421?sign=gAAAAABnSYtm2o7U_dlv2X4CvXiY3lPQWQDHtbgfAwQ8QPOhrYjtASzNYXaoF7K2VoB6Ta9IIWO2mB9zHicC8ftzYE-SFnHjBs6qok3MJWZpkJOVtJWpun8h3nHWscnELDSUOLODBYxSpPvI7Q37sB1l6oqcyKkSzN0e0DbMbuQsS6JdDSrTp7A9iHk6Ndmpwmk0pS13qO-oreAJf2vBu79RbACMDCTkfg%3D%3D
+5-CCTV-1综合,http://159.75.85.63:36666/migu/608807420.m3u8?migutoken=eeb1112e872459659520e2370334cd123f857823a9908b2271eb845146971c4254f0cdcae55f43745cfde667f854522162359977c5f0e5d93ea045257003dfe585c98c86debbbf377ecd8786a7
+6-CCTV-4中文國際,http://159.75.85.63:36666/migu/631780421.m3u8?migutoken=afcdd5605aa5874bbc70bfc43b14edbb1c589dbdd2562b52f282fb111a206c8c2db4b0be09e2e3c36961f1ad151a7590524fda6a1eb929d33330457425eb9c33d300c036584aef8095ae1699ca
 7-千禧經典台b,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 8-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 9-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
