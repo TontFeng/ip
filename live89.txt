@@ -35,7 +35,7 @@ CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
 
 大灣區衛視,http://kxrj.site:1333/86/mg.php?id=dwqws
-廣東衛視,http://kxrj.site:1333/86/mg.php?id=gdws
+廣東衛視,http://159.75.85.63:36666/migu/608831231.m3u8?migutoken=671fa5e70a864be113062ab0c3573c15568b01193d0797d67e068fa4ad0ad75a9eb2b8e6628e4b0f570f7c59dae9088b53b85bf82864b247fef336c73ab6c8d19af726c3012b0b4c597f50bc5f
 鳳凰中文台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 tvbs-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
