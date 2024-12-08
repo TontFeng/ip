@@ -31,6 +31,7 @@
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 翡翠台2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
 大灣區衛視,http://159.75.85.63:36666/migu/608917627.m3u8?migutoken=caa2ec07bce65fe6fb9ef512cbe7b1ed1fbbd98f1c54aa3f0c002aa30aca7c681319d7ca5a9c76fafe1af50f4bd950f7fadd5b936bc9af5ca6ca99fbdd5f1bdcdb2fb255a6dcb35f706de94df0
