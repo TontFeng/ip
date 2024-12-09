@@ -42,5 +42,6 @@ tvbs-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 东森新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 popc电影国,p3p://173.208.176.178:31809/663e9212000a54b4285005cd59217563
 P有线新闻台,p3p://173.208.176.178:31809/655bd22c000147307fdff68936807320
+72家房客,https://anym3u8player.com/m3u8-player-chat/chat/67571f3331bb5/?url=aHR0cHM6Ly95b3V0dS5iZS9tRm81cTJaSl9GRT9zaT1jNFJDS0RmSGlTeHhYb09q
 
 
