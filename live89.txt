@@ -24,7 +24,7 @@
 18-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 19-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 20-廣東衛視,http://159.75.85.63:36666/migu/608831231.m3u8?migutoken=671fa5e70a864be113062ab0c3573c15568b01193d0797d67e068fa4ad0ad75a9eb2b8e6628e4b0f570f7c59dae9088b53b85bf82864b247fef336c73ab6c8d19af726c3012b0b4c597f50bc5f
-21-東方衛視,http://kxrj.site:1333/86/mg.php?id=dfws
+21-東方衛視,,http://159.75.85.63:36666/migu/651632648.m3u8?migutoken=1b2b8e27ba48ea84743bfbe5803dce0853afcbf169218f39a54948009906f47cae46bf4c90ffb6ea8bf8414738efaa3db2524c2af05314c5175d2785710811d0a89dccf5a937679bfdb1d0890b
 22-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 後備電視台,#genre#
