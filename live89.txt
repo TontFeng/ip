@@ -34,7 +34,8 @@
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV4,https://migu1.vip-tptv.xyz/migu/631780421?sign=gAAAAABnUrBhMngayLUSBzHnrAHhbmh8mWqVF42jksD8PT_XK5yydYhbOThBui909gv_Ow-zcwuBKUG56kwdlirE8IByU3I92XhWixbe_dUFUd7Pz0DZbdldo1pn2h1Nc7TeldjacimUKeOyCzO3rTTms1ZPq_zKW00IjiMxokwBu9PBRAm4DckLkbGaVptvV0OT9IYOBVU3KCW26hFMbEfIpRjkZWg02w%3D%3D
-大灣區衛視,http://php.jdshipin.com/TVOD/iptv.php?id=dwqws
+大灣區衛視,http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000011619
+广东大湾区卫视,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 東方衛視,https://migu1.vip-tptv.xyz/migu/651632648?sign=gAAAAABnUrBhKCYPwQHfqSKedHGAHWVV6AA766ht13TCqVBNYa20NhT-n7XoVwxmG6EoFnSJEXhOC732anxU_kuKLYcx_J8ehiqsI5vWyAsLPQvQIYjZp8IiZooMk43PRLWWe1mhZBsIYFrIXULMkRDGzEhHrmF0Xorco7hcxkM0XaXcgU9UOUvq66j0891MaP0lb9wpOF4kCQph7AeATkKUc0o_AoZtsg%3D%3D
 廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
 鳳凰中文台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
