@@ -8,7 +8,7 @@
 3-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 4-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 5-CCTV-1综合,http://159.75.85.63:36666/migu/608807420.m3u8?migutoken=eeb1112e872459659520e2370334cd123f857823a9908b2271eb845146971c4254f0cdcae55f43745cfde667f854522162359977c5f0e5d93ea045257003dfe585c98c86debbbf377ecd8786a7
-6-CCTV-4中文國際,http://159.75.85.63:36666/migu/631780421.m3u8?migutoken=afcdd5605aa5874bbc70bfc43b14edbb1c589dbdd2562b52f282fb111a206c8c2db4b0be09e2e3c36961f1ad151a7590524fda6a1eb929d33330457425eb9c33d300c036584aef8095ae1699ca
+6-CCTV-4中文國際,https://migu1.vip-tptv.xyz/migu/631780421?sign=gAAAAABnUrBhMngayLUSBzHnrAHhbmh8mWqVF42jksD8PT_XK5yydYhbOThBui909gv_Ow-zcwuBKUG56kwdlirE8IByU3I92XhWixbe_dUFUd7Pz0DZbdldo1pn2h1Nc7TeldjacimUKeOyCzO3rTTms1ZPq_zKW00IjiMxokwBu9PBRAm4DckLkbGaVptvV0OT9IYOBVU3KCW26hFMbEfIpRjkZWg02w%3D%3D
 7-大灣區衛視,http://159.75.85.63:36666/migu/608917627.m3u8?migutoken=caa2ec07bce65fe6fb9ef512cbe7b1ed1fbbd98f1c54aa3f0c002aa30aca7c681319d7ca5a9c76fafe1af50f4bd950f7fadd5b936bc9af5ca6ca99fbdd5f1bdcdb2fb255a6dcb35f706de94df0
 8-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 9-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
@@ -24,7 +24,7 @@
 18-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 19-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 20-廣東衛視,http://159.75.85.63:36666/migu/608831231.m3u8?migutoken=671fa5e70a864be113062ab0c3573c15568b01193d0797d67e068fa4ad0ad75a9eb2b8e6628e4b0f570f7c59dae9088b53b85bf82864b247fef336c73ab6c8d19af726c3012b0b4c597f50bc5f
-21-東方衛視,http://159.75.85.63:36666/migu/651632648.m3u8?migutoken=1b2b8e27ba48ea84743bfbe5803dce0853afcbf169218f39a54948009906f47cae46bf4c90ffb6ea8bf8414738efaa3db2524c2af05314c5175d2785710811d0a89dccf5a937679bfdb1d0890b
+21-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
 22-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 後備電視台,#genre#
@@ -34,7 +34,7 @@
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
-大灣區衛視,http://159.75.85.63:36666/migu/608917627.m3u8?migutoken=caa2ec07bce65fe6fb9ef512cbe7b1ed1fbbd98f1c54aa3f0c002aa30aca7c681319d7ca5a9c76fafe1af50f4bd950f7fadd5b936bc9af5ca6ca99fbdd5f1bdcdb2fb255a6dcb35f706de94df0
+大灣區衛視,http://z.b.bkpcp.top/m.php?id=dwqws
 廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
 鳳凰中文台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
