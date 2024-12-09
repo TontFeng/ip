@@ -8,7 +8,7 @@
 3-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 4-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 5-CCTV-1综合,http://159.75.85.63:36666/migu/608807420.m3u8?migutoken=eeb1112e872459659520e2370334cd123f857823a9908b2271eb845146971c4254f0cdcae55f43745cfde667f854522162359977c5f0e5d93ea045257003dfe585c98c86debbbf377ecd8786a7
-6-CCTV-4中文國際,https://migu1.vip-tptv.xyz/migu/631780421?sign=gAAAAABnUrBhMngayLUSBzHnrAHhbmh8mWqVF42jksD8PT_XK5yydYhbOThBui909gv_Ow-zcwuBKUG56kwdlirE8IByU3I92XhWixbe_dUFUd7Pz0DZbdldo1pn2h1Nc7TeldjacimUKeOyCzO3rTTms1ZPq_zKW00IjiMxokwBu9PBRAm4DckLkbGaVptvV0OT9IYOBVU3KCW26hFMbEfIpRjkZWg02w%3D%3D
+6-CCTV-4中文國際,http://z.b.bkpcp.top/m.php?id=cctv4
 7-大灣區衛視,http://159.75.85.63:36666/migu/608917627.m3u8?migutoken=caa2ec07bce65fe6fb9ef512cbe7b1ed1fbbd98f1c54aa3f0c002aa30aca7c681319d7ca5a9c76fafe1af50f4bd950f7fadd5b936bc9af5ca6ca99fbdd5f1bdcdb2fb255a6dcb35f706de94df0
 8-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 9-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
