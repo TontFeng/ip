@@ -29,11 +29,14 @@
 18-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 18-TVBS-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 19-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-20-廣東衛視,http://159.75.85.63:36666/migu/608831231.m3u8?migutoken=671fa5e70a864be113062ab0c3573c15568b01193d0797d67e068fa4ad0ad75a9eb2b8e6628e4b0f570f7c59dae9088b53b85bf82864b247fef336c73ab6c8d19af726c3012b0b4c597f50bc5f
-20-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
-21-東方衛視,http://39.134.136.161:6610/000000001000/1000000001000030202/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000030202
-21-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
-22-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+20-東森新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
+21-廣東衛視,http://159.75.85.63:36666/migu/608831231.m3u8?migutoken=671fa5e70a864be113062ab0c3573c15568b01193d0797d67e068fa4ad0ad75a9eb2b8e6628e4b0f570f7c59dae9088b53b85bf82864b247fef336c73ab6c8d19af726c3012b0b4c597f50bc5f
+21-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
+22-廣東珠江台,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011655
+22-廣東珠江台,http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000033
+23-東方衛視,http://39.134.136.161:6610/000000001000/1000000001000030202/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000030202
+23-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
+24-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 後備電視台,#genre#
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
@@ -41,8 +44,7 @@
 無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 大灣區衛視,http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000011619
-广东大湾区卫视,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
-东森新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
-广东珠江1,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011655
-广东珠江,http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000033
+廣東大灣衛視,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
+廣東珠江台,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011655
+
 
