@@ -22,8 +22,6 @@
 10-龍華電影台,https://litv.zapi.us.kg/?id=litv-longturn03
 11-千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 11-千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-11-千禧經典台,https://www.mytvsuper.xyz/astro/qianxi/stream.m3u8
-11-千禧經典台,http://205.185.123.236:8899/astro/qianxi/stream.m3u8
 11-千禧經典台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 
 12-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
