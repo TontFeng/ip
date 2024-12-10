@@ -12,6 +12,8 @@
 6-CCTV-4中文國際,http://39.134.136.161:6610/000000001000/8183388942203045169/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8183388942203045169
 6-CCTV-4中文國際,https://migu1.vip-tptv.xyz/migu/631780421?sign=gAAAAABnUrBhMngayLUSBzHnrAHhbmh8mWqVF42jksD8PT_XK5yydYhbOThBui909gv_Ow-zcwuBKUG56kwdlirE8IByU3I92XhWixbe_dUFUd7Pz0DZbdldo1pn2h1Nc7TeldjacimUKeOyCzO3rTTms1ZPq_zKW00IjiMxokwBu9PBRAm4DckLkbGaVptvV0OT9IYOBVU3KCW26hFMbEfIpRjkZWg02w%3D%3D
 7-大灣區衛視,http://159.75.85.63:36666/migu/608917627.m3u8?migutoken=caa2ec07bce65fe6fb9ef512cbe7b1ed1fbbd98f1c54aa3f0c002aa30aca7c681319d7ca5a9c76fafe1af50f4bd950f7fadd5b936bc9af5ca6ca99fbdd5f1bdcdb2fb255a6dcb35f706de94df0
+7-大灣區衛視,http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000011619
+7-大灣區衛視,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 8-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 9-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
@@ -22,8 +24,10 @@
 14-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 15-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 16-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+16-中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 17-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 18-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+18-TVBS-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 19-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 20-廣東衛視,http://159.75.85.63:36666/migu/608831231.m3u8?migutoken=671fa5e70a864be113062ab0c3573c15568b01193d0797d67e068fa4ad0ad75a9eb2b8e6628e4b0f570f7c59dae9088b53b85bf82864b247fef336c73ab6c8d19af726c3012b0b4c597f50bc5f
 20-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
@@ -39,7 +43,4 @@
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 大灣區衛視,http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000011619
 广东大湾区卫视,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
-鳳凰中文台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-tvbs-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 东森新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
