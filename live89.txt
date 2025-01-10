@@ -14,6 +14,7 @@
 5-CCTV-1综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv1
 5-CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
 5-CCTV-1综合,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1580954862_989339440/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073730&ContentId=265183188&timezone=UTC&mtv_session=70e0f8e2241f03fbb284fe07471c1406&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8389d6ec822d0e298d3b92aa95fa266
+6-CCTV-4中文國際,http://z.b.bkpcp.top/m.php?id=cctv4
 6-CCTV-4中文國際,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv4
 6-CCTV-4中文國際,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4
 6-CCTV-4中文國際,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv4
@@ -45,15 +46,16 @@
 18-TVBS-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 19-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 20-東森新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
+21-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
 21-廣東衛視,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=gdws
 21-廣東衛視,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdws
 21-廣東衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdws
-21-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
 22-廣東珠江台,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011655
 22-廣東珠江台,http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000033
+
+23-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
 23-東方衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dfws
 23-東方衛視,http://39.134.136.161:6610/000000001000/1000000001000030202/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000030202
-23-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
 24-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 後備電視台,#genre#
