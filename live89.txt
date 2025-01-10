@@ -66,15 +66,9 @@
 大灣區衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
 廣東大灣衛視,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 廣東珠江台,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011655
-东方卫视,http://58.19.43.46:9901/tsfile/live/1035_1.m3u8$订阅源-1920x1080
-东方卫视,http://112.6.197.24:9921/hls/18/index.m3u8$订阅源-1920x1080
-东方卫视,http://113.220.235.235:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
-东方卫视,http://183.94.1.118:8801/tsfile/live/0107_1.m3u8$订阅源-1920x1080
 东方卫视,http://101.65.32.39:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318$订阅源-1920x1080
-东方卫视,http://222.134.245.16:9901/tsfile/live/0107_1.m3u8$订阅源-1920x1080
 东方卫视,http://222.134.245.16:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
-东方卫视,http://221.224.4.170:1111/tsfile/live/0107_1.m3u8$订阅源-1920x1080
 东方卫视,http://220.164.192.48:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 
 
