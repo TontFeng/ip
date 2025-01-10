@@ -70,15 +70,3 @@
 东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318$订阅源-1920x1080
 东方卫视,http://222.134.245.16:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 东方卫视,http://220.164.192.48:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
-
-
-LIUMTV,#genre#
-CCTV-1咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=CCTV-1
-CCTV-2咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=CCTV-2
-CCTV-3咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=CCTV-3
-CCTV-4咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=CCTV-4
-CCTV-5咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=CCTV-5
-CCTV-5+咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=CCTV-5p
-CCTV-6咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=CCTV-6
-CCTV-7咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=CCTV-7
-CCTV-13咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=CCTV-13
