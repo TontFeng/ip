@@ -17,6 +17,7 @@
 6-CCTV-4中文國際,http://39.134.136.161:6610/000000001000/8183388942203045169/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8183388942203045169
 6-CCTV-4中文國際,https://migu1.vip-tptv.xyz/migu/631780421?sign=gAAAAABnUrBhMngayLUSBzHnrAHhbmh8mWqVF42jksD8PT_XK5yydYhbOThBui909gv_Ow-zcwuBKUG56kwdlirE8IByU3I92XhWixbe_dUFUd7Pz0DZbdldo1pn2h1Nc7TeldjacimUKeOyCzO3rTTms1ZPq_zKW00IjiMxokwBu9PBRAm4DckLkbGaVptvV0OT9IYOBVU3KCW26hFMbEfIpRjkZWg02w%3D%3D
 7-大灣區衛視,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws
+7-大灣區衛視,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws
 7-大灣區衛視,http://hms3652nc3747353878.live.aikan.miguvideo.com/wh7f454c46tw4272855364_342168527/migu/kailu/dawanquws/211204/20231020/01.m3u8?msisdn=a5fd36f310c1199e87e722953f630b4f&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.104.119.101&timestamp=20241223133007&ContentId=265218882&timezone=UTC&netType=Cellular&clientType=Android&zjAppVersion=915&zjClientId=fa8369c0be5431ec&mtv_session=3da7ad5fac110cda1e2ef525afd4a066&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9d8249873223ef6135b1fe3cb84bd41
 7-大灣區衛視,http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000011619
 7-大灣區衛視,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
