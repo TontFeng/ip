@@ -58,6 +58,6 @@
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 大灣區衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
 大灣區衛視-睡眼,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws
-廣東大灣衛視,http://117.72.68.25:9930/migu.php?id=dwqws
+大湾区视,p3p://108.181.32.169:44171/64261096000de036ee0a4f3b523d603e
 廣東珠江台,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011655
 东方卫视,http://223.105.252.8/PLTV/4/224/3221227688/index.m3u8
