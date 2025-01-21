@@ -47,7 +47,7 @@
 22-廣東珠江台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 23-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
 23-東方衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dfws
-23-東方衛視,http://39.134.136.161:6610/000000001000/1000000001000030202/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000030202
+23-東方衛視,https://www.freetv.top/migu/651632648.m3u8?migutoken=6d74ba2fc5e05fe3f406f6985fe4a372581d382a08335f70aebe9e3497c5f657bcc30d3ee4f98238cc67f0822140678db1b01373c56e5b5fef3c609f8e37bea1f3dc255eb6c33b4f2d1b4ef7a3
 24-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 後備電視台,#genre#
