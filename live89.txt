@@ -59,7 +59,4 @@
 大灣區衛視-睡眼,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws
 大灣衛視,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 大湾区视,https://www.freetv.top/migu/608917627.m3u8?migutoken=603f934e5a558469bfeea234af5adf0e8a72012da98eb117aec9d36b4b4535708fe1bc72aeac78ffbf42c346afbb32701d055396779d99b84a718f06f97690197be4339f1862bd20944190b3fb
-大湾咪咕,http://hms3652nc3747353878.live.aikan.miguvideo.com/wh7f454c46tw4272855364_342168527/migu/kailu/dawanquws/211204/20231020/01.m3u8?msisdn=a5fd36f310c1199e87e722953f630b4f&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.104.119.101&timestamp=20241223133007&ContentId=265218882&timezone=UTC&netType=Cellular&clientType=Android&zjAppVersion=915&zjClientId=fa8369c0be5431ec&mtv_session=3da7ad5fac110cda1e2ef525afd4a066&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9d8249873223ef6135b1fe3cb84bd41
-廣東珠江台,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011655
-廣東衛視1,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1593177896_517539519/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=263541274&timezone=UTC&mtv_session=4d4e96518e2e6558846eec1f7e8cb4c1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cbba4b3db62cb6fb348d495ad003a2c8
 东方卫视,http://223.105.252.8/PLTV/4/224/3221227688/index.m3u8
