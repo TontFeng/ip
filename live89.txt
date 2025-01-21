@@ -16,11 +16,10 @@
 6-CCTV-4中文國際,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv4
 6-CCTV-4中文國際,http://39.134.136.161:6610/000000001000/8183388942203045169/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8183388942203045169
 6-CCTV-4中文國際,https://migu1.vip-tptv.xyz/migu/631780421?sign=gAAAAABnUrBhMngayLUSBzHnrAHhbmh8mWqVF42jksD8PT_XK5yydYhbOThBui909gv_Ow-zcwuBKUG56kwdlirE8IByU3I92XhWixbe_dUFUd7Pz0DZbdldo1pn2h1Nc7TeldjacimUKeOyCzO3rTTms1ZPq_zKW00IjiMxokwBu9PBRAm4DckLkbGaVptvV0OT9IYOBVU3KCW26hFMbEfIpRjkZWg02w%3D%3D
-
-7-大灣區衛視,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws
+7-大灣區衛視,https://www.freetv.top/migu/608917627.m3u8?migutoken=603f934e5a558469bfeea234af5adf0e8a72012da98eb117aec9d36b4b4535708fe1bc72aeac78ffbf42c346afbb32701d055396779d99b84a718f06f97690197be4339f1862bd20944190b3fb
 7-大灣區衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
+7-大灣區衛視,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws
 7-大灣區衛視,http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000011619
-7-大灣區衛視,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 8-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 9-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 9-美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
@@ -58,6 +57,7 @@
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 大灣區衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
 大灣區衛視-睡眼,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws
+大灣衛視,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 大湾区视,https://www.freetv.top/migu/608917627.m3u8?migutoken=603f934e5a558469bfeea234af5adf0e8a72012da98eb117aec9d36b4b4535708fe1bc72aeac78ffbf42c346afbb32701d055396779d99b84a718f06f97690197be4339f1862bd20944190b3fb
 廣東珠江台,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011655
 东方卫视,http://223.105.252.8/PLTV/4/224/3221227688/index.m3u8
