@@ -14,12 +14,9 @@
 5-CCTV-1综合,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1580954862_989339440/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073730&ContentId=265183188&timezone=UTC&mtv_session=70e0f8e2241f03fbb284fe07471c1406&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8389d6ec822d0e298d3b92aa95fa266
 6-CCTV-4中文國際,http://z.b.bkpcp.top/m.php?id=cctv4
 6-CCTV-4中文國際,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv4
-6-CCTV-4中文國際,http://39.134.136.161:6610/000000001000/8183388942203045169/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8183388942203045169
 6-CCTV-4中文國際,https://migu1.vip-tptv.xyz/migu/631780421?sign=gAAAAABnUrBhMngayLUSBzHnrAHhbmh8mWqVF42jksD8PT_XK5yydYhbOThBui909gv_Ow-zcwuBKUG56kwdlirE8IByU3I92XhWixbe_dUFUd7Pz0DZbdldo1pn2h1Nc7TeldjacimUKeOyCzO3rTTms1ZPq_zKW00IjiMxokwBu9PBRAm4DckLkbGaVptvV0OT9IYOBVU3KCW26hFMbEfIpRjkZWg02w%3D%3D
-7-大灣區衛視,https://www.freetv.top/migu/608917627.m3u8?migutoken=603f934e5a558469bfeea234af5adf0e8a72012da98eb117aec9d36b4b4535708fe1bc72aeac78ffbf42c346afbb32701d055396779d99b84a718f06f97690197be4339f1862bd20944190b3fb
+7-大灣區衛視,https://www.freetv.top/migu/608917627.m3u8?migutoken=96c044aff7a3dfdb93701c147e1b2fd63815eeeb10e81e9fa132537dee8d053c5a2ef8c0218a6ed7c798357d31ec2bdbe9ca5b8022ca357699bea41036e3454187119c83c0417fc77ec0e1ad46
 7-大灣區衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
-7-大灣區衛視,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws
-7-大灣區衛視,http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000011619
 8-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 9-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 9-美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
@@ -41,13 +38,12 @@
 18-TVBS-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 19-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 20-東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-21-廣東衛視,https://www.freetv.top/migu/608831231.m3u8?migutoken=66ddf601e9d4cd73b15087ebadae01ded6a2bf4192d361987d301869fa19496c69babdcc293d942938f3b34092a8311e58cfa65e93447fde133f175c124f194c2ef25bdaa6e814a38102f87309
-21-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
-21-廣東衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdws
-22-廣東珠江台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
+21-廣東珠江台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
+22-廣東衛視,https://www.freetv.top/migu/608831231.m3u8?migutoken=8fd17d6a051ef3b910130e4e842fa02a4eee325a082c950083c757a4c4f99dda21b95f9715a58a596c82956f1d5ca9a36ff202454191c3f452de88a51affebb0ed3072df4355c235b786bb0b35
+22-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
+22-廣東衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdws
 23-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
 23-東方衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dfws
-23-東方衛視,https://www.freetv.top/migu/651632648.m3u8?migutoken=6d74ba2fc5e05fe3f406f6985fe4a372581d382a08335f70aebe9e3497c5f657bcc30d3ee4f98238cc67f0822140678db1b01373c56e5b5fef3c609f8e37bea1f3dc255eb6c33b4f2d1b4ef7a3
 24-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 後備電視台,#genre#
@@ -58,5 +54,5 @@
 大灣區衛視,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
 大灣區衛視-睡眼,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws
 大灣衛視,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
-大湾区视,https://www.freetv.top/migu/608917627.m3u8?migutoken=603f934e5a558469bfeea234af5adf0e8a72012da98eb117aec9d36b4b4535708fe1bc72aeac78ffbf42c346afbb32701d055396779d99b84a718f06f97690197be4339f1862bd20944190b3fb
+大湾区视,https://www.freetv.top/migu/608917627.m3u8?migutoken=96c044aff7a3dfdb93701c147e1b2fd63815eeeb10e81e9fa132537dee8d053c5a2ef8c0218a6ed7c798357d31ec2bdbe9ca5b8022ca357699bea41036e3454187119c83c0417fc77ec0e1ad46
 东方卫视,http://223.105.252.8/PLTV/4/224/3221227688/index.m3u8
