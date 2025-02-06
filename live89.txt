@@ -47,7 +47,6 @@
 22-廣東衛視,http://goo.bkpcp.top/mg/gdws
 22-廣東衛視,https://www.freetv.top/migu/608831231.m3u8?migutoken=8fd17d6a051ef3b910130e4e842fa02a4eee325a082c950083c757a4c4f99dda21b95f9715a58a596c82956f1d5ca9a36ff202454191c3f452de88a51affebb0ed3072df4355c235b786bb0b35
 22-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
-22-廣東衛視,http://183.255.10.92:6610/200000001898/460000089800010221/1.m3u8?IASHttpSessionId=ACE
 23-東方衛視,http://goo.bkpcp.top/mg/dfws
 23-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
 24-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
