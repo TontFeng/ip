@@ -19,7 +19,7 @@
 6-CCTV-4中文國際,http://z.b.bkpcp.top/m.php?id=cctv4
 6-CCTV-4中文國際,https://migu1.vip-tptv.xyz/migu/631780421?sign=gAAAAABnUrBhMngayLUSBzHnrAHhbmh8mWqVF42jksD8PT_XK5yydYhbOThBui909gv_Ow-zcwuBKUG56kwdlirE8IByU3I92XhWixbe_dUFUd7Pz0DZbdldo1pn2h1Nc7TeldjacimUKeOyCzO3rTTms1ZPq_zKW00IjiMxokwBu9PBRAm4DckLkbGaVptvV0OT9IYOBVU3KCW26hFMbEfIpRjkZWg02w%3D%3D
 7-大灣區衛視,http://goo.bkpcp.top/mg/dwqws
-7-大灣區衛視,https://www.freetv.top/migu/608917627.m3u8?migutoken=bec4d9e28939940737f64e4105a9cff24e6624649f40cd3eb0ee4718ea69f7f02f1698796c46d9ff697a680d79a5ec62a564d4e5d3b01e24dc443b7fa95be50c9e063ed0e2fe58a717d689af58
+7-大灣區衛視,https://www.freetv.top/migu/608917627.m3u8?migutoken=e6a007b901073f160375a6d643ff1a36de319f03835b0a3ed54c6a4787e97cf28928e5657bd8fcbcca086a34892281c6b6cc6920ae8f6f504e00cf336d1066d4fa4ae19353d3574bd93a35ef22
 7-大灣區衛視,http://z.b.bkpcp.top/m.php?id=dwqws
 8-廣東珠江台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 9-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
@@ -44,7 +44,6 @@
 20-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 21-東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 22-廣東衛視,http://goo.bkpcp.top/mg/gdws
-22-廣東衛視,https://www.freetv.top/migu/608831231.m3u8?migutoken=8fd17d6a051ef3b910130e4e842fa02a4eee325a082c950083c757a4c4f99dda21b95f9715a58a596c82956f1d5ca9a36ff202454191c3f452de88a51affebb0ed3072df4355c235b786bb0b35
 22-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
 23-東方衛視,http://goo.bkpcp.top/mg/dfws
 23-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
