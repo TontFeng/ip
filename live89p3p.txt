@@ -13,14 +13,16 @@
 3-鳳凰中文,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
 3-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 3-鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-
-
+4-CCTV-4中文國際,p3p://167.114.175.6:55331/61244d9c0006885d64b1b7591f6c12a0
+4-CCTV-4中文國際,http://goo.bkpcp.top/mg/cctv4
+4-CCTV-4中文國際,http://z.b.bkpcp.top/m.php?id=cctv4
 5-CCTV-1综合,p3p://167.114.175.6:55331/62c200310006b7b2a8c4dade0fd02231
 5-CCTV-1综合,http://goo.bkpcp.top/mg/cctv1
 5-CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
-6-CCTV-4中文國際,p3p://167.114.175.6:55331/61244d9c0006885d64b1b7591f6c12a0
-6-CCTV-4中文國際,http://goo.bkpcp.top/mg/cctv4
-6-CCTV-4中文國際,http://z.b.bkpcp.top/m.php?id=cctv4
+6-CCTV-3综艺,p3p://167.114.175.6:55331/62be83ea0001dbed9b27d7bb43427d30
+6-CCTV-3综艺,p3p://173.208.176.178:31809/62be83ea0001dbed9b27d7bb43427d30
+6-CCTV-3综艺,http://goo.bkpcp.top/mg/cctv3
+6-CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
 7-大灣區衛視,http://goo.bkpcp.top/mg/dwqws
 7-大灣區衛視,https://www.freetv.top/migu/608917627.m3u8?migutoken=e6a007b901073f160375a6d643ff1a36de319f03835b0a3ed54c6a4787e97cf28928e5657bd8fcbcca086a34892281c6b6cc6920ae8f6f504e00cf336d1066d4fa4ae19353d3574bd93a35ef22
 7-大灣區衛視,http://z.b.bkpcp.top/m.php?id=dwqws
@@ -30,7 +32,10 @@
 9-美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 9-美亞電影台(HK),http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
+10-龍華電影台,p3p://167.114.175.6:55331/621471310004d28d02d6aeb471c265ec
 10-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+11-千禧經典台,p3p://167.114.175.6:55331/5fdee1a2000b5fba6d93e51308cb7ddf
+11-千禧經典台,p3p://173.208.176.178:31809/5fdee1a2000b5fba6d93e51308cb7ddf
 11-千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 11-千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 12-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
@@ -43,9 +48,12 @@
 4-中天新聞台,p3p://167.114.175.6:55331/66ddb71c00014eb7a0a51d6b523b5634
 4-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 4-中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+19-TVBS-新聞台,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0
 19-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 19-TVBS-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+21-東森新聞台,p3p://167.114.175.6:55331/61468afa0005b339ea7014d376a616f3
 21-東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+
 20-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 22-廣東衛視,http://goo.bkpcp.top/mg/gdws
 22-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
