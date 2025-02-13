@@ -50,26 +50,27 @@
 15-鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 16-鳳凰香港,p3p://167.114.175.6:55331/5fe0b82c000cac9774c17f262e43314d
 16-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-17-翡翠台-J1,p3p://167.114.175.6:55331/63efe0de000858baf2402a646c573e1b
-17-翡翠台-J1,p3p://167.114.175.6:55331/63efe07e000c1db2f23eb46a4e00518a
-18-翡翠北美台,p3p://167.114.175.6:55331/63efe2e2000d23b5f2480b4125294b9a
-19-旧金山KTSF,p3p://167.114.175.6:55331/644ed78c000977f06531f4d257ab3636
-20-中天新聞台,p3p://167.114.175.6:55331/66ddb71c00014eb7a0a51d6b523b5634
-20-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-20-中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-21-TVBS-新聞台,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0
-21-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-21-TVBS-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
-22-東森新聞台,p3p://167.114.175.6:55331/61468afa0005b339ea7014d376a616f3
-22-東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+17-翡翠北美台,p3p://167.114.175.6:55331/63efe2e2000d23b5f2480b4125294b9a
+17-翡翠北美台,p3p://173.208.176.178:31809/63efe2e2000d23b5f2480b4125294b9a
+18-旧金山KTSF,p3p://167.114.175.6:55331/644ed78c000977f06531f4d257ab3636
+18-旧金山KTSF,p3p://173.208.176.178:31809/644ed78c000977f06531f4d257ab3636
+19-中天新聞台,p3p://167.114.175.6:55331/66ddb71c00014eb7a0a51d6b523b5634
+19-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+19-中天新聞台,p3p://173.208.176.178:31809/66ddb71c00014eb7a0a51d6b523b5634
+19-中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+20-TVBS-新聞台,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0
+20-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+20-TVBS-新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+21-東森新聞台,p3p://167.114.175.6:55331/61468afa0005b339ea7014d376a616f3
+21-東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
-23-神州新聞台,p3p://173.208.176.178:31809/655e74f7000953678a2be18968661f5f
-23-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-24-廣東衛視,http://goo.bkpcp.top/mg/gdws
-24-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
-25-東方衛視,http://goo.bkpcp.top/mg/dfws
-25-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
-26-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+22-神州新聞台,p3p://173.208.176.178:31809/655e74f7000953678a2be18968661f5f
+22-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+23-廣東衛視,http://goo.bkpcp.top/mg/gdws
+23-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
+24-東方衛視,http://goo.bkpcp.top/mg/dfws
+24-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
+25-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 
 
