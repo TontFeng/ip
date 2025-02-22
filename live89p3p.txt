@@ -78,6 +78,5 @@
 24-東方衛視,http://goo.bkpcp.top/mg/dfws
 24-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
 25-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-26-test,https://1299.1000s.us.kg/653e4c02000ea0440c8c63fd3e5d709d
-27-test,p3p://1299.1000s.us.kg/653e4c02000ea0440c8c63fd3e5d709d
+
 
