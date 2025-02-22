@@ -119,4 +119,5 @@ test,#genre#
 47,http://xrdp.fun:10209/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
 49,http://y.wuenci.wang:50001/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
 50,http://zwg.life:50001/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
-
+组播1,http://45.76.166.126:8000/组播/咪咕视频.php?id=dwqws
+组播2,http://107.175.194.40:8000/组播/咪咕视频.php?id=dwqws
