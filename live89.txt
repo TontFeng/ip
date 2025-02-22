@@ -121,11 +121,11 @@ test,#genre#
 50,http://zwg.life:50001/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
 
 💝湾湾频道👉全网,#genre#
-中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
-东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
-非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+中天新闻,http://100.lc8899lc88.asia/?id=4gtv-4gtv009
+东森新闻,http://100.lc8899lc88.asia/?id=4gtv-4gtv152
+tvbs新闻,http://100.lc8899lc88.asia/?id=4gtv-4gtv072
+寰宇新闻,http://100.lc8899lc88.asia/?id=litv-longturn14
+非凡新闻,http://100.lc8899lc88.asia/?id=4gtv-4gtv010
 闽镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
