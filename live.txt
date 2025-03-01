@@ -48,6 +48,7 @@ Jdshipin线路,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
@@ -60,17 +61,135 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+
 
 CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+
+test,#genre#
+
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+
+
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+
+华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+
+
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+
+
+Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+
+
+
+
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
+佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
+佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
+佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
+东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
+
+
+PopC,http://php.jdshipin.com:8880/xsj.php?id=popc
+翡翠台,http://php.jdshipin.com:8880/xsj.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/xsj.php?id=feicui
+无线新闻台,http://php.jdshipin.com:8880/xsj.php?id=tvb-news
+TVB plus,http://php.jdshipin.com:8880/xsj.php?id=tvb-plus
+TVB plus,http://php.jdshipin.com:8880/xsj.php?id=j2
+黄金翡翠台,http://php.jdshipin.com:8880/xsj.php?id=golden-jade
+黄金华剧台,http://php.jdshipin.com:8880/xsj.php?id=golden-chinese-drama
+千禧经典台,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
+粤语片台,http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu
+星河台,http://php.jdshipin.com:8880/xsj.php?id=tvb-xinghe
+亚洲剧台,http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama
+娱乐新闻台,http://php.jdshipin.com:8880/xsj.php?id=ylxw
+明珠台,http://php.jdshipin.com:8880/xsj.php?id=pearl
+华语剧台,http://php.jdshipin.com:8880/xsj.php?id=tvb-drama
+凤凰资讯,http://php.jdshipin.com:8880/xsj.php?id=phtv-info
+凤凰中文,http://php.jdshipin.com:8880/xsj.php?id=phtv-cn
+凤凰香港,http://php.jdshipin.com:8880/xsj.php?id=phtv-hk
+HOY 资讯台,http://php.jdshipin.com:8880/xsj.php?id=hoy-info
+HOY TV,http://php.jdshipin.com:8880/xsj.php?id=hoytv
+HOY国际财经,http://php.jdshipin.com:8880/xsj.php?id=hoy-ibc
+ViuTV,http://php.jdshipin.com:8880/xsj.php?id=viutv
+ViuTV6,http://php.jdshipin.com:8880/xsj.php?id=viutv6
+天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
+天映经典,http://php.jdshipin.com:8880/xsj.php?id=cccm
+Thrill,http://php.jdshipin.com:8880/xsj.php?id=thrill
+星空卫视,http://php.jdshipin.com:8880/xsj.php?id=star-xing-kong
+香港卫视,http://php.jdshipin.com:8880/xsj.php?id=hks
+澳亚卫视,http://php.jdshipin.com:8880/xsj.php?id=mastv
+澳门卫视,http://php.jdshipin.com:8880/xsj.php?id=mstv
+澳门莲花卫视,http://php.jdshipin.com:8880/xsj.php?id=lotustv
+澳门资讯,http://php.jdshipin.com:8880/xsj.php?id=tdm-information
+澳视澳门,http://php.jdshipin.com:8880/xsj.php?id=tdm
+HKC 18台,http://php.jdshipin.com:8880/xsj.php?id=hkc18
+港台电视 31,http://php.jdshipin.com:8880/xsj.php?id=rthk31
+港台电视 32,http://php.jdshipin.com:8880/xsj.php?id=rthk32
+
+Now 财经台,http://php.jdshipin.com:8880/xsj.php?id=now-finance
+Now 爆谷台,http://php.jdshipin.com:8880/xsj.php?id=baogu-movies
+Now 星影台,http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars
+Now 新闻台,http://php.jdshipin.com:8880/xsj.php?id=now-news
+Now 直播台,http://php.jdshipin.com:8880/xsj.php?id=now-direct
+Now报价台,http://php.jdshipin.com:8880/xsj.php?id=now-data
+Now jelli紫金国际台,http://php.jdshipin.com:8880/xsj.php?id=now-jelli
+Now华剧台,http://php.jdshipin.com:8880/xsj.php?id=now-chinese-drama
+HBO Now115,http://php.jdshipin.com:8880/xsj.php?id=Now-HBO
+Now HBO Hits,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits
+Now HBO Family,http://php.jdshipin.com:8880/xsj.php?id=now-hbof-amily
+Now HBO Signature,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-signature
+MovieMovie,http://php.jdshipin.com:8880/xsj.php?id=moviemovie
+NowViu剧集台,http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
+Now Sports 641,http://php.jdshipin.com:8880/xsj.php?id=now-sports641
+Now NBA,http://php.jdshipin.com:8880/xsj.php?id=now-nba
+Now Sports精选,http://php.jdshipin.com:8880/xsj.php?id=now-sports-prime
+Now Sports 1,http://php.jdshipin.com:8880/xsj.php?id=now-sports-1
+Now Sports 2,http://php.jdshipin.com:8880/xsj.php?id=now-sports-2
+Now Sports 3,http://php.jdshipin.com:8880/xsj.php?id=now-sports-3
+Now Sports 4,http://php.jdshipin.com:8880/xsj.php?id=now-sports-4
+Now Sports 5,http://php.jdshipin.com:8880/xsj.php?id=now-sports-5
+Now Sports 6,http://php.jdshipin.com:8880/xsj.php?id=now-sports-6
+Now Sports 7,http://php.jdshipin.com:8880/xsj.php?id=now-sports-7
+Now Sports Plus,http://php.jdshipin.com:8880/xsj.php?id=now-sports-plus
+Now Sports 英超1,http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
+Now Sports 英超2,http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league2
+Now Sports 英超3,http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league3
+Now Sports 英超4,http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league4
+Now Sports 英超5,http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league5
+Now Sports 英超6,http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league6
+Now beIN SPORTS 1,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports1
+Now beIN SPORTS 2,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports2
+Now beIN SPORTS 3,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports3
+Now 668,http://php.jdshipin.com:8880/xsj.php?id=now-668
+Now 618,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
+Now Golf 2,http://php.jdshipin.com:8880/xsj.php?id=now-golf2
+Now Golf 3,http://php.jdshipin.com:8880/xsj.php?id=now-golf3
 
 
 TVOD-国内台,#genre#
@@ -193,7 +312,5 @@ NewTV超级体育,http://142.171.105.169:50001/TVOD/1000000001000009204/ystenliv
 NewTV超级体育,http://142.171.105.169:50001/TVOD/1000000004000007755/ystenlive/index.m3u8?ace
 
 
-test,#genre#
-北京卫视,http://142.171.105.169:50001/TVOD/6000000001000020451/wasusyt/index.m3u8?ace
 
 
