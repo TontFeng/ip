@@ -193,4 +193,7 @@ NewTV超级体育,http://142.171.105.169:50001/TVOD/1000000001000009204/ystenliv
 NewTV超级体育,http://142.171.105.169:50001/TVOD/1000000004000007755/ystenlive/index.m3u8?ace
 
 
+test,#genre#
+北京卫视,http://142.171.105.169:50001/TVOD/6000000001000020451/wasusyt/index.m3u8?ace
+
 
