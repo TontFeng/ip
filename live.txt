@@ -93,27 +93,11 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 
-
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
-
 Astro 剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
-
-
-
-中天新闻,http://php.jdshipin.com:8880/xsj.php?id=cti-news
-TVBS 新闻台,http://php.jdshipin.com:8880/xsj.php?id=tvbs-news
-TVBS HD,http://php.jdshipin.com:8880/xsj.php?id=tvbs-hd
-东森新闻,http://php.jdshipin.com:8880/xsj.php?id=ebc-news
-东森财经新闻,http://php.jdshipin.com:8880/xsj.php?id=ebc-finance
-寰宇新闻台,http://php.jdshipin.com:8880/xsj.php?id=global-news
-寰宇财经台,http://php.jdshipin.com:8880/xsj.php?id=global-finance
-
-
-
 
 
 
