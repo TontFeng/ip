@@ -98,37 +98,16 @@ TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 
-Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+Astro 剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
-
-
-
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 
 
-PopC,http://php.jdshipin.com:8880/xsj.php?id=popc
-翡翠台,http://php.jdshipin.com:8880/xsj.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/xsj.php?id=feicui
-无线新闻台,http://php.jdshipin.com:8880/xsj.php?id=tvb-news
-TVB plus,http://php.jdshipin.com:8880/xsj.php?id=tvb-plus
-TVB plus,http://php.jdshipin.com:8880/xsj.php?id=j2
-黄金翡翠台,http://php.jdshipin.com:8880/xsj.php?id=golden-jade
-黄金华剧台,http://php.jdshipin.com:8880/xsj.php?id=golden-chinese-drama
-千禧经典台,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
-粤语片台,http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu
-星河台,http://php.jdshipin.com:8880/xsj.php?id=tvb-xinghe
-亚洲剧台,http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama
-娱乐新闻台,http://php.jdshipin.com:8880/xsj.php?id=ylxw
-明珠台,http://php.jdshipin.com:8880/xsj.php?id=pearl
-华语剧台,http://php.jdshipin.com:8880/xsj.php?id=tvb-drama
+
+
+
+
+
 凤凰香港,http://php.jdshipin.com:8880/xsj.php?id=phtv-hk
 HOY 资讯台,http://php.jdshipin.com:8880/xsj.php?id=hoy-info
 
