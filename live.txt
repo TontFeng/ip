@@ -301,4 +301,6 @@ CHC动作电影,p3p://167.114.175.6:55331/63ec4d4200074d64e44790cb67ae7b20
 中国电影,p3p://167.114.175.6:55331/63fe69a800089af82b062bc65bb57f67
 东方影视,p3p://167.114.175.6:55331/63ec504700099c1ae4535ce016284942
 
+test,#genre#
+中天,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 
