@@ -65,9 +65,9 @@
 大湾区视,https://www.freetv.top/migu/608917627.m3u8?migutoken=96c044aff7a3dfdb93701c147e1b2fd63815eeeb10e81e9fa132537dee8d053c5a2ef8c0218a6ed7c798357d31ec2bdbe9ca5b8022ca357699bea41036e3454187119c83c0417fc77ec0e1ad46
 
 mytv,#genre#
-CCTV4,http://129.146.26.84:35455/itv/5000000011000031102.m3u8?cdn=bestzb
+CCTV4,http://129.146.26.84:35455/itv/5000000011000031102.m3u8?cdn=FifastbLive
 cctv4-高码,http://129.146.26.84:35455/gaoma/cctv4.m3u8
-广东卫视,http://129.146.26.84:35455/itv/6000000001000031076.m3u8?cdn=wasusyt
+广东卫视,http://129.146.26.84:35455/itv/6000000001000031076.m3u8?cdn=FifastbLive
 
 test,#genre#
 5(美),http://38.207.172.44:50002/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
