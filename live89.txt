@@ -66,17 +66,9 @@
 
 mytv,#genre#
 tvbj1,http://tv.tvbj.us.kg/公众号睡眼迷离的猫/tvbj1.php
-大湾区卫视1,http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
-大湾区卫视2,http://58.248.112.205:8006/GD_CUCC/G_NANFANG.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNexNFWuAFW4%2BJ9rhcZJgOKRkMuHjBF3unRUJIv7Am%2FX3
-大湾区卫视3,http://27.40.16.70:8114/GD_CUCC/G_NANFANG.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
-大湾区卫视4,http://8.209.196.123:32768/2000000003000000045/hnbblive/index.m3u8
-大湾区卫视5,http://goo.bkpcp.top/mg/dwqws
-大湾区卫视6,http://tvbox6.icu/tv/migu.php?id=dwqws
-大湾区卫视7,http://cdn9.1678520.xyz/xsj2.1.php?id=testdwqws
-广东大湾区卫视,http://8.209.196.123:32768/1000000002000011619/ystenlive/index.m3u8
-大湾区卫视8,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_NANFANG/G_NANFANG.m3u8
-
-
+中天新闻1,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+中天新闻2,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+中天新闻3,http://tlive24.uk/livehttpplay?channel_id=20163
 
 test,#genre#
 5(美),http://38.207.172.44:50002/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
