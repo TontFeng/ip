@@ -67,7 +67,7 @@
 mytv,#genre#
 tvbj1,http://tv.tvbj.us.kg/公众号睡眼迷离的猫/tvbj1.php
 中天新闻2,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
-hyj,http://129.146.26.84/TV/playpc.php?gtid=27
+hyj,http://http://129.146.26.84:88/TV/hyj.mp3
 
 test,#genre#
 5(美),http://38.207.172.44:50002/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
