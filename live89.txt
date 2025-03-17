@@ -93,6 +93,16 @@ CCTV6 高清,http://129.146.26.84:88/TV/4stv.php?id=065
 红颜旧,http://129.146.26.84:88/TV/hyj.mp3
 
 test,#genre#
+CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=201
+CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=484
+CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=488
+CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=489
+CCTV2 高清,http://129.146.26.84:88/TV/4stv.php?id=061
+CCTV3 高清,http://129.146.26.84:88/TV/4stv.php?id=062
+CCTV4 高清,http://129.146.26.84:88/TV/4stv.php?id=063
+CCTV5 高清,http://129.146.26.84:88/TV/4stv.php?id=064
+CCTV5+ 高清,http://129.146.26.84:88/TV/4stv.php?id=246
+CCTV6 高清,http://129.146.26.84:88/TV/4stv.php?id=065
 5(美),http://38.207.172.44:50002/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
 8(西班牙慢),http://85.208.9.229:5000/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
 9(香港),http://189.1.244.48:50001/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
