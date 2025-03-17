@@ -67,16 +67,6 @@
 mytv,#genre#
 tvbj1,http://tv.tvbj.us.kg/公众号睡眼迷离的猫/tvbj1.php
 中天新闻2,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
-CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=201
-CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=484
-CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=488
-CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=489
-CCTV2 高清,http://129.146.26.84:88/TV/4stv.php?id=061
-CCTV3 高清,http://129.146.26.84:88/TV/4stv.php?id=062
-CCTV4 高清,http://129.146.26.84:88/TV/4stv.php?id=063
-CCTV5 高清,http://129.146.26.84:88/TV/4stv.php?id=064
-CCTV5+ 高清,http://129.146.26.84:88/TV/4stv.php?id=246
-CCTV6 高清,http://129.146.26.84:88/TV/4stv.php?id=065
 
 
 
