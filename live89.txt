@@ -67,8 +67,15 @@
 mytv,#genre#
 tvbj1,http://tv.tvbj.us.kg/公众号睡眼迷离的猫/tvbj1.php
 中天新闻2,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
-
-
+安多卫视,http://76.5432123.xyz/杂项代理/学习强国.php?id=adws
+CCTV-1,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
+CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
+广东卫视,http://dsk.cc/php/xxtv.php?id=gdws
+大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
+大湾区卫视,http://211.101.234.24:866/aishang/migu.php/migu.php?id=dwqws
+大湾区卫视,http://dsk.cc/php/xxtv.php?id=dwqws
+翡翠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=263ef8e25e9d14599c49b2169d133840
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 
 音乐,#genre#
 传奇,http://129.146.26.84:88/TV/传奇-昝老师.mp3
