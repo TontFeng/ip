@@ -89,8 +89,8 @@ test,#genre#
 CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=201
 CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=484
 CCTV1 高清,http://129.146.26.84:88/TV/4stv.php?id=488
-A1,http://4.242.134.220:50001/TVOD/1000000002000011619/ystenlive/index.m3u8?ace
-A2,http://4.242.134.220:50001/TVOD/1000000001000018602/FifastbLive/index.m3u8
+A5,http://119.165.110.238:8899/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
+A6,http://119.165.110.238:8899/TVOD/2000000003000000045/hnbblive/index.m3u8
 5(美),http://38.207.172.44:50002/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
 8(西班牙慢),http://85.208.9.229:5000/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
 9(香港),http://189.1.244.48:50001/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
