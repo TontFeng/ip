@@ -70,6 +70,9 @@ tvbj1,http://tv.tvbj.us.kg/公众号睡眼迷离的猫/tvbj1.php
 
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 
+無線新聞台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+翡翠台2,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台3,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 音乐,#genre#
 传奇,http://129.146.26.84:88/TV/传奇-昝老师.mp3
 红唇,http://129.146.26.84:88/TV/红唇-昝老师.mp3
