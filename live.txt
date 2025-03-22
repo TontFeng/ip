@@ -155,55 +155,6 @@ ZooMoo,http://103.38.82.107:28888/stream/tvb/zoomoo/master.m3u8?u=tvvvv&p=07a351
 黃金翡翠台,http://103.38.82.107:28888/stream/tvb/null-1/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
 黃金華劇台,http://103.38.82.107:28888/stream/tvb/null-6/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
 
-M快直播线路,#genre#
-
-CCTV1,http://129.146.26.84:88/kzb.php?id=cctv1
-CCTV2,http://129.146.26.84:88/kzb.php?id=cctv2
-CCTV3,http://129.146.26.84:88/kzb.php?id=cctv3
-CCTV4,http://129.146.26.84:88/kzb.php?id=cctv4
-CCTV5,http://129.146.26.84:88/kzb.php?id=cctv5
-CCTV5+,http://129.146.26.84:88/kzb.php?id=cctv5plus
-CCTV6,http://129.146.26.84:88/kzb.php?id=cctv6
-CCTV7,http://129.146.26.84:88/kzb.php?id=cctv7
-CCTV8,http://129.146.26.84:88/kzb.php?id=cctv8
-CCTV9,http://129.146.26.84:88/kzb.php?id=cctv9
-CCTV10,http://129.146.26.84:88/kzb.php?id=cctv10
-CCTV11,http://129.146.26.84:88/kzb.php?id=cctv11
-CCTV12,http://129.146.26.84:88/kzb.php?id=cctv12
-CCTV13,http://129.146.26.84:88/kzb.php?id=cctv13
-CCTV14,http://129.146.26.84:88/kzb.php?id=cctv14
-CCTV15,http://129.146.26.84:88/kzb.php?id=cctv15
-CCTV17,http://129.146.26.84:88/kzb.php?id=cctv17
-CCTV4美洲,http://129.146.26.84:88/kzb.php?id=cctv4m
-CCTV4欧洲,http://129.146.26.84:88/kzb.php?id=cctv4o
-重庆卫视,http://129.146.26.84:88/kzb.php?id=cqws
-东方卫视,http://129.146.26.84:88/kzb.php?id=dfws
-广东卫视,http://129.146.26.84:88/kzb.php?id=gdws
-甘肃卫视,http://129.146.26.84:88/kzb.php?id=gsws
-广西卫视,http://129.146.26.84:88/kzb.php?id=gxws
-贵州卫视,http://129.146.26.84:88/kzb.php?id=gzws
-海南卫视,http://129.146.26.84:88/kzb.php?id=hainws
-湖北卫视,http://129.146.26.84:88/kzb.php?id=hbws
-湖南卫视,http://129.146.26.84:88/kzb.php?id=hunws
-黑龙江卫视,http://129.146.26.84:88/kzb.php?id=hljws
-河南卫视,http://129.146.26.84:88/kzb.php?id=henws
-河北卫视,http://129.146.26.84:88/kzb.php?id=hebiws
-吉林卫视,http://129.146.26.84:88/kzb.php?id=jlws
-江苏卫视,http://129.146.26.84:88/kzb.php?id=jsws
-江西卫视,http://129.146.26.84:88/kzb.php?id=jxws
-辽宁卫视,http://129.146.26.84:88/kzb.php?id=lnws
-北京卫视,http://129.146.26.84:88/kzb.php?id=bjws
-青海卫视,http://129.146.26.84:88/kzb.php?id=qhws
-山东卫视,http://129.146.26.84:88/kzb.php?id=sdws
-深圳卫视,http://129.146.26.84:88/kzb.php?id=szws
-四川卫视,http://129.146.26.84:88/kzb.php?id=scws
-陕西卫视,http://129.146.26.84:88/kzb.php?id=sxws
-天津卫视,http://129.146.26.84:88/kzb.php?id=tjws
-新疆卫视,http://129.146.26.84:88/kzb.php?id=xjws
-浙江卫视,http://129.146.26.84:88/kzb.php?id=zjws
-兵团卫视,http://129.146.26.84:88/kzb.php?id=btws
-东南卫视,http://129.146.26.84:88/kzb.php?id=dnws
-安徽卫视,http://129.146.26.84:88/kzb.php?id=ahws
 
 💝👉167海外线路💝 焦点香港(kxrj),#genre#
 
