@@ -73,6 +73,8 @@ CCTV1,http://zwg.life:50001/TVOD/6000000001000029752/wasusyt/index.m3u8
 無線新聞台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 翡翠台2,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台3,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+外来媳妇本地郎,http://129.146.26.84:88/wlsf.m3u8
+
 音乐,#genre#
 传奇,http://129.146.26.84:88/TV/传奇-昝老师.mp3
 红唇,http://129.146.26.84:88/TV/红唇-昝老师.mp3
