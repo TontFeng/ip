@@ -66,5 +66,5 @@
 22-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
 23-東方衛視,http://goo.bkpcp.top/mg/dfws
 23-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
-24-東方衛視國際頻道,http://aktv_stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+24-東方衛視國際頻道,http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 
