@@ -53,6 +53,7 @@
 17-翡翠北美台,p3p://167.114.175.6:55331/63efe2e2000d23b5f2480b4125294b9a
 17-翡翠北美台,p3p://173.208.176.178:31809/63efe2e2000d23b5f2480b4125294b9a
 18-中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+18-中天新聞台,http://141.11.86.78:8088/live/4gtv.php?ch=260
 19-東森新聞台,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 20-廣東衛視,http://132.226.28.249:88/kzb.php?id=gdws
 20-廣東衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdsatellite.m3u8
