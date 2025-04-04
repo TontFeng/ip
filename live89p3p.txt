@@ -32,10 +32,10 @@
 9-美亞電影台(HK),http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 10-龍華電影台,p3p://167.114.175.6:55331/621471310004d28d02d6aeb471c265ec
-10-龍華電影台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+10-龍華電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 11-千禧經典台,p3p://167.114.175.6:55331/5fdee1a2000b5fba6d93e51308cb7ddf
 11-千禧經典台,p3p://173.208.176.178:31809/5fdee1a2000b5fba6d93e51308cb7ddf
-11-千禧經典台,http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+11-千禧經典台,http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 11-千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 12-黃金翡翠台,p3p://167.114.175.6:55331/653e49c20006c60f0c8397f7771b1b7b
 12-黃金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
@@ -43,12 +43,12 @@
 13-翡翠剧集台(北美),p3p://173.208.176.178:31809/63efe252000a7658f245d81113e44b34
 13-翡翠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 
-14-明珠剧集台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+14-明珠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 15-鳳凰資訊,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2
-15-鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+15-鳳凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 15-鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 16-鳳凰香港,p3p://167.114.175.6:55331/5fe0b82c000cac9774c17f262e43314d
-16-鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+16-鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 17-翡翠北美台,p3p://167.114.175.6:55331/63efe2e2000d23b5f2480b4125294b9a
 17-翡翠北美台,p3p://173.208.176.178:31809/63efe2e2000d23b5f2480b4125294b9a
 18-旧金山KTSF,p3p://167.114.175.6:55331/644ed78c000977f06531f4d257ab3636
@@ -57,7 +57,7 @@
 19-中天新聞台,p3p://167.114.175.6:55331/66ddb71c00014eb7a0a51d6b523b5634
 19-中天新聞台,p3p://173.208.176.178:31809/66ddb71c00014eb7a0a51d6b523b5634
 19-中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-20-TVBS-精採台,http://aktv_stream.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
+20-TVBS-精採台,http://aktv-stream.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 21-東森新聞台,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 21-東森新聞台,p3p://167.114.175.6:55331/61468afa0005b339ea7014d376a616f3
 
