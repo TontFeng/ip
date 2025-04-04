@@ -62,8 +62,7 @@
 21-東森新聞台,p3p://167.114.175.6:55331/61468afa0005b339ea7014d376a616f3
 
 
-22-廣東衛視,http://goo.bkpcp.top/mg/gdws
-22-廣東衛視,http://z.b.bkpcp.top/m.php?id=gdws
+22-廣東衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdsatellite.m3u8
 23-東方衛視,http://goo.bkpcp.top/mg/dfws
 23-東方衛視,http://z.b.bkpcp.top/m.php?id=dfws
 24-東方衛視國際頻道,http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
