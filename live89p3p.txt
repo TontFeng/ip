@@ -41,7 +41,7 @@
 12-黃金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 13-翡翠剧集台(北美),p3p://167.114.175.6:55331/63efe252000a7658f245d81113e44b34
 13-翡翠剧集台(北美),p3p://173.208.176.178:31809/63efe252000a7658f245d81113e44b34
-翡翠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+13-翡翠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 
 14-明珠剧集台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 15-鳳凰資訊,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2
@@ -53,7 +53,7 @@
 17-翡翠北美台,p3p://173.208.176.178:31809/63efe2e2000d23b5f2480b4125294b9a
 18-旧金山KTSF,p3p://167.114.175.6:55331/644ed78c000977f06531f4d257ab3636
 18-旧金山KTSF,p3p://173.208.176.178:31809/644ed78c000977f06531f4d257ab3636
-中天新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+19-中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 19-中天新聞台,p3p://167.114.175.6:55331/66ddb71c00014eb7a0a51d6b523b5634
 19-中天新聞台,p3p://173.208.176.178:31809/66ddb71c00014eb7a0a51d6b523b5634
 19-中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
