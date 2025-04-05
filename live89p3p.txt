@@ -74,6 +74,10 @@ srp1235,http://132.226.28.249:88/move/srp1235.mp4
 匹配者B,https://vod.gdtv.cn/m3u8/202412/173298084689.m3u8
 
 外来媳妇本地郎,#genre#
+wb4,https://cc1.wcetv.com/tablet/ons/video/ons324.mp4
+wb3,https://cc1.wcetv.com/tablet/ons/video/ons323.mp4
+wb2,https://cc1.wcetv.com/tablet/ons/video/ons322.mp4
+wb1,https://cc1.wcetv.com/tablet/ons/video/ons321.mp4
 
 综艺,#genre#
 
