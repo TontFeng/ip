@@ -57,6 +57,7 @@
 20-廣東衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdsatellite.m3u8
 21-東方衛視,http://132.226.28.249:88/kzb.php?id=dfws
 22-東方衛視國際頻道,http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+23-七十二家方客,http://132.226.28.249:26580/live/livestream.flv
 
 七十二家方客,#genre#
 1,https://cc1.wcetv.com/tablet/srp/video/srp1236.mp4
