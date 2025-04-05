@@ -60,13 +60,19 @@
 23-七十二家方客,http://132.226.28.249:26580/live/livestream.flv
 
 七十二家方客,#genre#
-1,https://cc1.wcetv.com/tablet/srp/video/srp1236.mp4
-2,https://cc1.wcetv.com/tablet/srp/video/srp1237.mp4
-3,https://cc1.wcetv.com/tablet/srp/video/srp1238.mp4
-4,https://cc1.wcetv.com/tablet/srp/video/srp1239.mp4
-5,https://cc1.wcetv.com/tablet/srp/video/srp1240.mp4
-6,https://cc1.wcetv.com/tablet/srp/video/srp1241.mp4
-7,https://cc1.wcetv.com/tablet/srp/video/srp1242.mp4
+srp1240,http://132.226.28.249:88/move/srp1240.mp4
+srp1239,http://132.226.28.249:88/move/srp1239.mp4
+srp1238,http://132.226.28.249:88/move/srp1238.mp4
+srp1237,http://132.226.28.249:88/move/srp1237.mp4
+srp1236,http://132.226.28.249:88/move/srp1236.mp4
+srp1235,http://132.226.28.249:88/move/srp1235.mp4
+炳的宴席,https://vod.gdtv.cn/m3u8/202412/173315070478.m3u8
+一笔私藏钱,https://vod.gdtv.cn/m3u8/202412/173315070191.m3u8
+不请自来A,https://vod.gdtv.cn/m3u8/202412/173306950831.m3u8
+不请自来B,https://vod.gdtv.cn/m3u8/202412/173306952938.m3u8
+匹配者A,https://vod.gdtv.cn/m3u8/202412/173298084645.m3u8
+匹配者B,https://vod.gdtv.cn/m3u8/202412/173298084689.m3u8
+
 
 电视转播台,#genre#
 
