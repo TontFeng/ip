@@ -117,17 +117,23 @@ wb14,https://cc1.wcetv.com/tablet/ons/video/ons334.mp4
 wb15,https://cc1.wcetv.com/tablet/ons/video/ons335.mp4
 
 
-精彩音乐汇,#genre#
-mus1473,https://cc1.wcetv.com/tablet/mus/video/mus1473.mp4
-mus1474,https://cc1.wcetv.com/tablet/mus/video/mus1474.mp4
-mus1475,https://cc1.wcetv.com/tablet/mus/video/mus1475.mp4
-mus1476,https://cc1.wcetv.com/tablet/mus/video/mus1476.mp4
-mus1477,https://cc1.wcetv.com/tablet/mus/video/mus1477.mp4
-mus1478,https://cc1.wcetv.com/tablet/mus/video/mus1478.mp4
-mus1479,https://cc1.wcetv.com/tablet/mus/video/mus1479.mp4
-mus1480,https://cc1.wcetv.com/tablet/mus/video/mus1480.mp4
-mus1481,https://cc1.wcetv.com/tablet/mus/video/mus1481.mp4
-mus1482,https://cc1.wcetv.com/tablet/mus/video/mus1482.mp4
-
+星广大道,#genre#
+slb326,https://cc1.wcetv.com/tablet/slb/video/slb326.mp4
+slb325,https://cc1.wcetv.com/tablet/slb/video/slb325.mp4
+slb324,https://cc1.wcetv.com/tablet/slb/video/slb324.mp4
+slb323,https://cc1.wcetv.com/tablet/slb/video/slb323.mp4
+slb322,https://cc1.wcetv.com/tablet/slb/video/slb322.mp4
+slb321,https://cc1.wcetv.com/tablet/slb/video/slb321.mp4
+slb320,https://cc1.wcetv.com/tablet/slb/video/slb320.mp4
+slb319,https://cc1.wcetv.com/tablet/slb/video/slb319.mp4
+slb318,https://cc1.wcetv.com/tablet/slb/video/slb318.mp4
+slb317,https://cc1.wcetv.com/tablet/slb/video/slb317.mp4
+slb316,https://cc1.wcetv.com/tablet/slb/video/slb316.mp4
+slb315,https://cc1.wcetv.com/tablet/slb/video/slb315.mp4
+slb314,https://cc1.wcetv.com/tablet/slb/video/slb314.mp4
+slb313,https://cc1.wcetv.com/tablet/slb/video/slb313.mp4
+slb312,https://cc1.wcetv.com/tablet/slb/video/slb312.mp4
+slb311,https://cc1.wcetv.com/tablet/slb/video/slb311.mp4
+slb310,https://cc1.wcetv.com/tablet/slb/video/slb310.mp4
 
 
