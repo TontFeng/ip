@@ -63,7 +63,7 @@
 srp1259,https://cc1.wcetv.com/tablet/srp/video/srp1259.mp4
 srp1258,https://cc1.wcetv.com/tablet/srp/video/srp1258.mp4
 srp1257,https://cc1.wcetv.com/tablet/srp/video/srp1257.mp4
-srp1256,https://cc1.wcetv.com/tablet/srp/video/srp1256.mp4
+在逃犯56,http://132.226.28.249:88/move/srp1256.mp4
 srp1255,https://cc1.wcetv.com/tablet/srp/video/srp1255.mp4
 srp1254,https://cc1.wcetv.com/tablet/srp/video/srp1254.mp4
 捉女婿,http://132.226.28.249:88/move/srp1253.mp4
