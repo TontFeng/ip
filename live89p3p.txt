@@ -72,6 +72,7 @@
 不请自来B,https://vod.gdtv.cn/m3u8/202412/173306952938.m3u8
 匹配者A,https://vod.gdtv.cn/m3u8/202412/173298084645.m3u8
 匹配者B,https://vod.gdtv.cn/m3u8/202412/173298084689.m3u8
+wch1,http://132.226.28.249:88/move/wch1.mp4
 wch2,http://132.226.28.249:88/move/wch2.mp4
 
 
