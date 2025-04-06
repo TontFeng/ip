@@ -115,8 +115,6 @@ wb12,https://cc1.wcetv.com/tablet/ons/video/ons332.mp4
 wb13,https://cc1.wcetv.com/tablet/ons/video/ons333.mp4
 wb14,https://cc1.wcetv.com/tablet/ons/video/ons334.mp4
 wb15,https://cc1.wcetv.com/tablet/ons/video/ons335.mp4
-wb16,https://cc1.wcetv.com/tablet/ons/video/ons336.mp4
-wb17,https://cc1.wcetv.com/tablet/ons/video/ons337.mp4
 
 
 综艺,#genre#
