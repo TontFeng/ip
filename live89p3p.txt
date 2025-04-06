@@ -60,6 +60,12 @@
 23-七十二家方客,http://132.226.28.249:26580/live/livestream.flv
 
 七十二家方客,#genre#
+6,http://132.226.28.249:88/move/srp1253.mp4
+5,http://132.226.28.249:88/move/srp1252.mp4
+4,http://132.226.28.249:88/move/srp1251.mp4
+3,http://132.226.28.249:88/move/srp1250.mp4
+2,http://132.226.28.249:88/move/srp1249.mp4
+1,http://132.226.28.249:88/move/srp1248.mp4
 美丽师徒,http://132.226.28.249:88/move/srp1247.mp4
 底线,http://132.226.28.249:88/move/srp1246.mp4
 人鬼难辨,http://132.226.28.249:88/move/srp1245.mp4
@@ -84,10 +90,16 @@ wch2,http://132.226.28.249:88/move/wch2.mp4
 
 
 外来媳妇本地郎,#genre#
-wb4,https://cc1.wcetv.com/tablet/ons/video/ons324.mp4
-wb3,https://cc1.wcetv.com/tablet/ons/video/ons323.mp4
-wb2,https://cc1.wcetv.com/tablet/ons/video/ons322.mp4
 wb1,https://cc1.wcetv.com/tablet/ons/video/ons321.mp4
+wb2,https://cc1.wcetv.com/tablet/ons/video/ons322.mp4
+wb3,https://cc1.wcetv.com/tablet/ons/video/ons323.mp4
+wb4,https://cc1.wcetv.com/tablet/ons/video/ons324.mp4
+wb5,https://cc1.wcetv.com/tablet/ons/video/ons325.mp4
+wb6,https://cc1.wcetv.com/tablet/ons/video/ons326.mp4
+wb7,https://cc1.wcetv.com/tablet/ons/video/ons327.mp4
+wb8,https://cc1.wcetv.com/tablet/ons/video/ons328.mp4
+
+
 
 综艺,#genre#
 
