@@ -60,6 +60,11 @@
 23-七十二家方客,http://132.226.28.249:26580/live/livestream.flv
 
 七十二家方客,#genre#
+srp1259,https://cc1.wcetv.com/tablet/srp/video/srp1259.mp4
+srp1258,https://cc1.wcetv.com/tablet/srp/video/srp1258.mp4
+srp1257,https://cc1.wcetv.com/tablet/srp/video/srp1257.mp4
+srp1256,https://cc1.wcetv.com/tablet/srp/video/srp1256.mp4
+srp1255,https://cc1.wcetv.com/tablet/srp/video/srp1255.mp4
 srp1254,https://cc1.wcetv.com/tablet/srp/video/srp1254.mp4
 捉女婿,http://132.226.28.249:88/move/srp1253.mp4
 回家之路,http://132.226.28.249:88/move/srp1252.mp4
@@ -100,6 +105,7 @@ wb8,https://cc1.wcetv.com/tablet/ons/video/ons328.mp4
 wb9,https://cc1.wcetv.com/tablet/ons/video/ons329.mp4
 wb10,https://cc1.wcetv.com/tablet/ons/video/ons330.mp4
 wb11,https://cc1.wcetv.com/tablet/ons/video/ons331.mp4
+wb12,https://cc1.wcetv.com/tablet/ons/video/ons332.mp4
 
 
 综艺,#genre#
