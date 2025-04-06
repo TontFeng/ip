@@ -62,10 +62,10 @@
 七十二家方客,#genre#
 srp1240,http://132.226.28.249:88/move/srp1240.mp4
 srp1239,http://132.226.28.249:88/move/srp1239.mp4
-srp1238,http://132.226.28.249:88/move/srp1238.mp4
-srp1237,http://132.226.28.249:88/move/srp1237.mp4
-srp1236,http://132.226.28.249:88/move/srp1236.mp4
-srp1235,http://132.226.28.249:88/move/srp1235.mp4
+丈母娘夸女婿,http://132.226.28.249:88/move/srp1238.mp4
+家有旺宅,http://132.226.28.249:88/move/srp1237.mp4
+与虎谋皮,http://132.226.28.249:88/move/srp1236.mp4
+警服之殉,http://132.226.28.249:88/move/srp1235.mp4
 炳的宴席,https://vod.gdtv.cn/m3u8/202412/173315070478.m3u8
 一笔私藏钱,https://vod.gdtv.cn/m3u8/202412/173315070191.m3u8
 不请自来A,https://vod.gdtv.cn/m3u8/202412/173306950831.m3u8
