@@ -123,7 +123,7 @@ wb15,https://cc1.wcetv.com/tablet/ons/video/ons335.mp4
 250315,https://videos.jstv.com/video/2025/03/15/202503152206201742047580137_759_21.mp4
 250309,https://videos.jstv.com/video/2025/03/09/202503090041411741452101288_434_21.mp4
 250301,https://videos.jstv.com/video/2025/03/01/202503012211231740838283442_800_21.mp4
-
+250222,https://videos.jstv.com/video/2025/02/22/202502222222361740234156694_536_21.mp4
 
 星广大道,#genre#
 slb326,https://cc1.wcetv.com/tablet/slb/video/slb326.mp4
