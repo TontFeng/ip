@@ -60,12 +60,13 @@
 23-七十二家方客,http://132.226.28.249:26580/live/livestream.flv
 
 七十二家方客,#genre#
-6,http://132.226.28.249:88/move/srp1253.mp4
-5,http://132.226.28.249:88/move/srp1252.mp4
-4,http://132.226.28.249:88/move/srp1251.mp4
-3,http://132.226.28.249:88/move/srp1250.mp4
-2,http://132.226.28.249:88/move/srp1249.mp4
-1,http://132.226.28.249:88/move/srp1248.mp4
+srp1254,https://cc1.wcetv.com/tablet/srp/video/srp1254.mp4
+捉女婿,http://132.226.28.249:88/move/srp1253.mp4
+回家之路,http://132.226.28.249:88/move/srp1252.mp4
+军队之光,http://132.226.28.249:88/move/srp1251.mp4
+新养女,http://132.226.28.249:88/move/srp1250.mp4
+天赐孩儿,http://132.226.28.249:88/move/srp1249.mp4
+木雕古董,http://132.226.28.249:88/move/srp1248.mp4
 美丽师徒,http://132.226.28.249:88/move/srp1247.mp4
 底线,http://132.226.28.249:88/move/srp1246.mp4
 人鬼难辨,http://132.226.28.249:88/move/srp1245.mp4
@@ -85,8 +86,6 @@
 不请自来B,https://vod.gdtv.cn/m3u8/202412/173306952938.m3u8
 匹配者A,https://vod.gdtv.cn/m3u8/202412/173298084645.m3u8
 匹配者B,https://vod.gdtv.cn/m3u8/202412/173298084689.m3u8
-wch1,http://132.226.28.249:88/move/wch1.mp4
-wch2,http://132.226.28.249:88/move/wch2.mp4
 
 
 外来媳妇本地郎,#genre#
