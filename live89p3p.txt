@@ -117,6 +117,17 @@ wb14,https://cc1.wcetv.com/tablet/ons/video/ons334.mp4
 wb15,https://cc1.wcetv.com/tablet/ons/video/ons335.mp4
 
 
-综艺,#genre#
+精彩音乐汇,#genre#
+mus1473,https://cc1.wcetv.com/tablet/mus/video/mus1473.mp4
+mus1474,https://cc1.wcetv.com/tablet/mus/video/mus1474.mp4
+mus1475,https://cc1.wcetv.com/tablet/mus/video/mus1475.mp4
+mus1476,https://cc1.wcetv.com/tablet/mus/video/mus1476.mp4
+mus1477,https://cc1.wcetv.com/tablet/mus/video/mus1477.mp4
+mus1478,https://cc1.wcetv.com/tablet/mus/video/mus1478.mp4
+mus1479,https://cc1.wcetv.com/tablet/mus/video/mus1479.mp4
+mus1480,https://cc1.wcetv.com/tablet/mus/video/mus1480.mp4
+mus1481,https://cc1.wcetv.com/tablet/mus/video/mus1481.mp4
+mus1482,https://cc1.wcetv.com/tablet/mus/video/mus1482.mp4
+
 
 
