@@ -60,7 +60,7 @@
 23-七十二家方客,http://132.226.28.249:26580/live/livestream.flv
 
 七十二家方客,#genre#
-srp1265,https://cc1.wcetv.com/tablet/srp/video/srp1265.mp4
+痴男怨女W,https://cc1.wcetv.com/tablet/srp/video/srp1265.mp4
 srp1264,https://cc1.wcetv.com/tablet/srp/video/srp1264.mp4
 srp1263,https://cc1.wcetv.com/tablet/srp/video/srp1263.mp4
 srp1262,https://cc1.wcetv.com/tablet/srp/video/srp1262.mp4
