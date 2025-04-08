@@ -62,7 +62,8 @@
 七十二家方客,#genre#
 既定计划（上),https://vod.gdtv.cn/m3u8/202503/174178934261.m3u8
 既定计划（下),https://vod.gdtv.cn/m3u8/202503/174179121521.m3u8
-
+黑白恩怨（上),https://vod.gdtv.cn/m3u8/202503/174170499642.m3u8
+黑白恩怨（下),https://vod.gdtv.cn/m3u8/202503/174170499573.m3u8
 痴男怨女W,https://cc1.wcetv.com/tablet/srp/video/srp1265.mp4
 srp1264,https://cc1.wcetv.com/tablet/srp/video/srp1264.mp4
 srp1263,https://cc1.wcetv.com/tablet/srp/video/srp1263.mp4
