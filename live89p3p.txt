@@ -21,7 +21,7 @@
 6-CCTV-3综艺,p3p://167.114.175.6:55331/62be83ea0001dbed9b27d7bb43427d30
 6-CCTV-3综艺,p3p://173.208.176.178:31809/62be83ea0001dbed9b27d7bb43427d30
 6-CCTV-3综艺,http://132.226.28.249:88/kzb.php?id=cctv3
-
+7-大灣區衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=nanfang_twn
 7-大灣區衛視,http://live.nctv.top/KLJHDS/migu.php?id=dwqws
 7-大灣區衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdtv.m3u8
 8-廣東珠江台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
