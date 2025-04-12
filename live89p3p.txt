@@ -5,10 +5,13 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 無線新聞台,p3p://167.114.175.6:55331/66c9c0df00016a4852abc2d358ee0ccb
 無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 鳳凰中文,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
@@ -24,6 +27,7 @@ CCTV-4中文國際,http://132.226.28.249:88/kzb.php?id=cctv4
 大灣區衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=nanfang_twn
 大灣區衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdtv.m3u8
 廣東珠江台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
+廣東珠江台,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 廣東珠江台,https://pixman.mytvsuper.com.mp/Smart.php?id=zhujiang
 美亞電影台(HK),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
 美亞電影台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
@@ -45,6 +49,7 @@ CCTV-5体育,p3p://167.114.175.6:55331/62c2e10a000954acac332b30611a0e9d
 CCTV-5体育,http://132.226.28.249:88/kzb.php?id=cctv5
 CCTV-5体育,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5
 廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+廣東體育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 廣東衛視,http://132.226.28.249:88/kzb.php?id=gdws
 廣東衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdsatellite.m3u8
 東方衛視,http://132.226.28.249:88/kzb.php?id=dfws
