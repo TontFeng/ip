@@ -62,6 +62,16 @@ CCTV-5体育,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5
 黑白恩怨（下),https://vod.gdtv.cn/m3u8/202503/174170499573.m3u8
 理失心不安（上),https://vod.gdtv.cn/m3u8/202503/174161916154.m3u8
 理失心不安（下),https://vod.gdtv.cn/m3u8/202503/174161920158.m3u8
+老虎当病猫,https://vod.gdtv.cn/m3u8/202503/174145146034.m3u8
+情深说话未曾讲,https://vod.gdtv.cn/m3u8/202503/174145145893.m3u8
+戏假情真（上),https://vod.gdtv.cn/m3u8/202503/174118989064.m3u8
+戏假情真（下),https://vod.gdtv.cn/m3u8/202503/174118719573.m3u8
+偷窥风波（上),https://vod.gdtv.cn/m3u8/202503/174109899332.m3u8
+偷窥风波（下),https://vod.gdtv.cn/m3u8/202503/174109899450.m3u8
+不能说的秘密（上),https://vod.gdtv.cn/m3u8/202503/174108518672.m3u8
+不能说的秘密（下),https://vod.gdtv.cn/m3u8/202503/174108518533.m3u8
+边缘人（上),https://vod.gdtv.cn/m3u8/202503/174092720341.m3u8
+边缘人（下),https://vod.gdtv.cn/m3u8/202503/174092723038.m3u8
 痴男怨女W,https://cc1.wcetv.com/tablet/srp/video/srp1265.mp4
 srp1264,https://cc1.wcetv.com/tablet/srp/video/srp1264.mp4
 srp1263,https://cc1.wcetv.com/tablet/srp/video/srp1263.mp4
@@ -101,23 +111,6 @@ srp1254,https://cc1.wcetv.com/tablet/srp/video/srp1254.mp4
 匹配者B,https://vod.gdtv.cn/m3u8/202412/173298084689.m3u8
 
 
-外来媳妇本地郎,#genre#
-wb1,https://cc1.wcetv.com/tablet/ons/video/ons321.mp4
-wb2,https://cc1.wcetv.com/tablet/ons/video/ons322.mp4
-wb3,https://cc1.wcetv.com/tablet/ons/video/ons323.mp4
-wb4,https://cc1.wcetv.com/tablet/ons/video/ons324.mp4
-wb5,https://cc1.wcetv.com/tablet/ons/video/ons325.mp4
-wb6,https://cc1.wcetv.com/tablet/ons/video/ons326.mp4
-wb7,https://cc1.wcetv.com/tablet/ons/video/ons327.mp4
-wb8,https://cc1.wcetv.com/tablet/ons/video/ons328.mp4
-wb9,https://cc1.wcetv.com/tablet/ons/video/ons329.mp4
-wb10,https://cc1.wcetv.com/tablet/ons/video/ons330.mp4
-wb11,https://cc1.wcetv.com/tablet/ons/video/ons331.mp4
-wb12,https://cc1.wcetv.com/tablet/ons/video/ons332.mp4
-wb13,https://cc1.wcetv.com/tablet/ons/video/ons333.mp4
-wb14,https://cc1.wcetv.com/tablet/ons/video/ons334.mp4
-wb15,https://cc1.wcetv.com/tablet/ons/video/ons335.mp4
-
 非诚勿扰,#genre#
 24-11-02,http://vod.v.jstv.com/2024/11/02/JSTV_JSWSNEW_1730556380801_dPBlao0_2219.mp4
 24-11-09,http://vod.v.jstv.com/2024/11/09/JSTV_JSWSNEW_1731160434016_6EjM23f_2980.mp4
@@ -144,21 +137,3 @@ wb15,https://cc1.wcetv.com/tablet/ons/video/ons335.mp4
 25-04-05,https://videos.jstv.com/video/2025/04/05/202504052210491743862249861_398_21.mp4
 
 
-星广大道,#genre#
-slb326,https://cc1.wcetv.com/tablet/slb/video/slb326.mp4
-slb325,https://cc1.wcetv.com/tablet/slb/video/slb325.mp4
-slb324,https://cc1.wcetv.com/tablet/slb/video/slb324.mp4
-slb323,https://cc1.wcetv.com/tablet/slb/video/slb323.mp4
-slb322,https://cc1.wcetv.com/tablet/slb/video/slb322.mp4
-slb321,https://cc1.wcetv.com/tablet/slb/video/slb321.mp4
-slb320,https://cc1.wcetv.com/tablet/slb/video/slb320.mp4
-slb319,https://cc1.wcetv.com/tablet/slb/video/slb319.mp4
-slb318,https://cc1.wcetv.com/tablet/slb/video/slb318.mp4
-slb317,https://cc1.wcetv.com/tablet/slb/video/slb317.mp4
-slb316,https://cc1.wcetv.com/tablet/slb/video/slb316.mp4
-slb315,https://cc1.wcetv.com/tablet/slb/video/slb315.mp4
-slb314,https://cc1.wcetv.com/tablet/slb/video/slb314.mp4
-slb313,https://cc1.wcetv.com/tablet/slb/video/slb313.mp4
-slb312,https://cc1.wcetv.com/tablet/slb/video/slb312.mp4
-slb311,https://cc1.wcetv.com/tablet/slb/video/slb311.mp4
-slb310,https://cc1.wcetv.com/tablet/slb/video/slb310.mp4
