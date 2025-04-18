@@ -61,10 +61,14 @@ CCTV-5体育,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5
 大灣區衛視,http://132.226.28.249:88/move/srp1253.mp4
 大灣區衛視,http://132.226.28.249:88/move/srp1239.mp4
 大灣區衛視,https://cc1.wcetv.com/tablet/srp/video/srp1262.mp4
-
-
-
-
+不能说的秘密（上),https://vod.gdtv.cn/m3u8/202503/174108518672.m3u8
+不能说的秘密（下),https://vod.gdtv.cn/m3u8/202503/174108518533.m3u8
+偷窥风波（上),https://vod.gdtv.cn/m3u8/202503/174109899332.m3u8
+偷窥风波（下),https://vod.gdtv.cn/m3u8/202503/174109899450.m3u8
+不请自来A,https://vod.gdtv.cn/m3u8/202412/173306950831.m3u8
+不请自来B,https://vod.gdtv.cn/m3u8/202412/173306952938.m3u8
+边缘人（上),https://vod.gdtv.cn/m3u8/202503/174092720341.m3u8
+边缘人（下),https://vod.gdtv.cn/m3u8/202503/174092723038.m3u8
 
 七十二家方客,#genre#
 既定计划（上),https://vod.gdtv.cn/m3u8/202503/174178934261.m3u8
