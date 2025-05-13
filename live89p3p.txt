@@ -45,7 +45,7 @@ CCTV-3综艺,http://132.226.28.249:88/kzb.php?id=cctv3
 CCTV-5体育,p3p://167.114.175.6:55331/62c2e10a000954acac332b30611a0e9d
 CCTV-5体育,http://132.226.28.249:88/kzb.php?id=cctv5
 CCTV-5体育,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5
-NBA -,https://smart.pendy.dpdns.org/Smart.php?id=Nba
+NBA TV-Philippines,https://smart.pendy.dpdns.org/Smart.php?id=Nba
 Now NBA TV,p3p://167.114.175.6:55331/65a587500007bc039fca3566638e69af
 Now 英超,p3p://173.208.176.178:31809/65acf008000b26e4bcbb1adc24476b3f
 廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
