@@ -67,6 +67,16 @@ Now 英超,p3p://173.208.176.178:31809/65acf008000b26e4bcbb1adc24476b3f
 边缘人（下),https://vod.gdtv.cn/m3u8/202503/174092723038.m3u8
 
 七十二家方客,#genre#
+回家之路,http://132.226.28.249:88/move/srp1252.mp4
+军队之光,http://132.226.28.249:88/move/srp1251.mp4
+新养女,http://132.226.28.249:88/move/srp1250.mp4
+天赐孩儿,http://132.226.28.249:88/move/srp1249.mp4
+木雕古董,http://132.226.28.249:88/move/srp1248.mp4
+美丽师徒,http://132.226.28.249:88/move/srp1247.mp4
+底线,http://132.226.28.249:88/move/srp1246.mp4
+人鬼难辨,http://132.226.28.249:88/move/srp1245.mp4
+赵家大小姐,http://132.226.28.249:88/move/srp1244.mp4
+大哥的女人,http://132.226.28.249:88/move/srp1243.mp4
 寄居蟹(上),https://vod.gdtv.cn/m3u8/202502/173911372426.m3u8
 寄居蟹(下),https://vod.gdtv.cn/m3u8/202502/173911373645.m3u8
 既定计划（上),https://vod.gdtv.cn/m3u8/202503/174178934261.m3u8
@@ -96,16 +106,6 @@ srp1257,https://cc1.wcetv.com/tablet/srp/video/srp1257.mp4
 srp1255,https://cc1.wcetv.com/tablet/srp/video/srp1255.mp4
 srp1254,https://cc1.wcetv.com/tablet/srp/video/srp1254.mp4
 捉女婿,http://132.226.28.249:88/move/srp1253.mp4
-回家之路,http://132.226.28.249:88/move/srp1252.mp4
-军队之光,http://132.226.28.249:88/move/srp1251.mp4
-新养女,http://132.226.28.249:88/move/srp1250.mp4
-天赐孩儿,http://132.226.28.249:88/move/srp1249.mp4
-木雕古董,http://132.226.28.249:88/move/srp1248.mp4
-美丽师徒,http://132.226.28.249:88/move/srp1247.mp4
-底线,http://132.226.28.249:88/move/srp1246.mp4
-人鬼难辨,http://132.226.28.249:88/move/srp1245.mp4
-赵家大小姐,http://132.226.28.249:88/move/srp1244.mp4
-大哥的女人,http://132.226.28.249:88/move/srp1243.mp4
 温暖的送别,http://132.226.28.249:88/move/srp1242.mp4
 祸福香炉,http://132.226.28.249:88/move/srp1241.mp4
 打烂醋埕,http://132.226.28.249:88/move/srp1240.mp4
