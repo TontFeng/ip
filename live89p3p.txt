@@ -17,7 +17,7 @@ CCTV-4中文國際,http://132.226.28.249:88/kzb.php?id=cctv4
 中天新聞台,http://141.11.86.78:8088/live/4gtv.php?ch=260
 中天新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
 黃金翡翠台,p3p://167.114.175.6:55331/653e49c20006c60f0c8397f7771b1b7b
-大灣區衛視,http://132.226.28.249:88/gzyx.php?channel=DQBSW2
+大灣區衛視,http://132.226.28.249:88/crtn.php?u=https://tx-gjlizhi.gdtv.cn/live/gdgj&t=1753220801&s=1752779004&d=4&o=0
 廣東珠江台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 廣東珠江台,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 廣東珠江台,https://pixman.mytvsuper.com.mp/Smart.php?id=zhujiang
