@@ -14,8 +14,7 @@
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 CCTV-4中文國際,http://132.226.28.249:88/kzb.php?id=cctv4
-中天新聞台,http://141.11.86.78:8088/live/4gtv.php?ch=260
-中天新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
+中天新聞台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 黃金翡翠台,p3p://167.114.175.6:55331/653e49c20006c60f0c8397f7771b1b7b
 大灣區衛視,http://132.226.28.249:88/crtn.php?u=https://tx-gjlizhi.gdtv.cn/live/gdgj&t=1753220801&s=1752779004&d=4&o=0
 大灣區衛視,http://132.226.28.249:88/crtn.php?u=https://tx-gjlizhi.gdtv.cn/live/gdgj&t=1753717011&s=1752903057&d=4&o=0
