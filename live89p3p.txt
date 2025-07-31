@@ -51,6 +51,7 @@ CCTV-5体育,http://132.226.28.249:88/kzb.php?id=cctv5
 不请自来B,https://vod.gdtv.cn/m3u8/202412/173306952938.m3u8
 边缘人（上),https://vod.gdtv.cn/m3u8/202503/174092720341.m3u8
 边缘人（下),https://vod.gdtv.cn/m3u8/202503/174092723038.m3u8
+test1,https://europe.olemovienews.com/ts1/20200516/HuHFHnxf/mp4/HuHFHnxf.mp4/index-v1-a1.m3u8
 
 💝新加6集💝七十二家方客,#genre#
 💝新加💝心魔(上),https://vod.gdtv.cn/m3u8/202503/174084444935.m3u8
@@ -162,5 +163,5 @@ srp1254,https://cc1.wcetv.com/tablet/srp/video/srp1254.mp4
 2018-02-10,http://132.226.28.249:88/move/ZGXQ1/20180210.m3u8
 2018-02-24,http://132.226.28.249:88/move/ZGXQ1/20180224.m3u8
 2018-03-03,http://132.226.28.249:88/move/ZGXQ1/20180303.m3u8
-test1,https://europe.olemovienews.com/ts1/20200516/HuHFHnxf/mp4/HuHFHnxf.mp4/index-v1-a1.m3u8
+
 
