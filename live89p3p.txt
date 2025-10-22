@@ -57,7 +57,9 @@
 CGTN,video://https://www.cgtn.com/tv
 CGTN,webview://https://www.cgtn.com/tv
 cctv1,video://https://tv.cctv.com/live/cctv1/
+cctv1,video://https://yangshipin.cn/tv/home?pid=600001859
 cctv1,webview://https://tv.cctv.com/live/cctv1/
+cctv1,webview://https://yangshipin.cn/tv/home?pid=600001859
 廣東衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdsatellite.m3u8
 大灣區衛視,http://132.226.28.249:88/move/srp1251.mp4
 大灣區衛視,http://132.226.28.249:88/move/srp1253.mp4
@@ -233,6 +235,7 @@ srp1254,https://cc1.wcetv.com/tablet/srp/video/srp1254.mp4
 2019-03-23,http://132.226.28.249:88/move/ZGXQ2/20190323.m3u8
 2019-03-30,http://132.226.28.249:88/move/ZGXQ2/20190330.m3u8
 2019-04-06,http://132.226.28.249:88/move/ZGXQ2/20190406.m3u8
+
 
 
 
