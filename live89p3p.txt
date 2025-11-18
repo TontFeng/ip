@@ -32,35 +32,11 @@
 广东影视,https://itv.809899.xyz/migu.php?id=gdys
 
 
-高清卫视,#genre#
-浙江卫视4K,https://itv.809899.xyz/4k.php?id=zj4k
-浙江卫视4K,http://132.226.28.249:88/4kws.php?id=zj4k
-浙江卫视4K,http://8.134.95.222:88/4kws.php?id=zj4k
-北京卫视4K,https://itv.809899.xyz/4k.php?id=btv4k
-北京卫视4K,http://132.226.28.249:88/4kws.php?id=btv4k
-北京卫视4K,http://8.134.95.222:88/4kws.php?id=btv4k
-湖南卫视4K,https://itv.809899.xyz/4k.php?id=hn4k
-湖南卫视4K,http://132.226.28.249:88/4kws.php?id=hn4k
-湖南卫视4K,http://132.226.28.249:88/4kws.php?id=hn4k
+电视其它台,#genre#
+廣東衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdsatellite.m3u8
 江苏综艺,https://itv.809899.xyz/migu.php?id=jszy
 江苏影视,https://itv.809899.xyz/migu.php?id=jsys
 河南卫视,https://itv.809899.xyz/migu.php?id=hnws
-四川卫视4K,https://itv.809899.xyz/4k.php?id=sc4k
-四川卫视4K,http://132.226.28.249:88/4kws.php?id=sc4k
-四川卫视4K,http://132.226.28.249:88/4kws.php?id=sc4k
-山东卫视4K,https://itv.809899.xyz/4k.php?id=sd4k
-山东卫视4K,http://132.226.28.249:88/4kws.php?id=sd4k
-山东卫视4K,http://132.226.28.249:88/4kws.php?id=sd4k
-
-
-电视其它台,#genre#
-CGTN,video://https://www.cgtn.com/tv
-CGTN,webview://https://www.cgtn.com/tv
-cctv1,video://https://tv.cctv.com/live/cctv1/
-cctv1,video://https://yangshipin.cn/tv/home?pid=600001859
-cctv1,webview://https://tv.cctv.com/live/cctv1/
-cctv1,webview://https://yangshipin.cn/tv/home?pid=600001859
-廣東衛視,https://hkcozztm28w4tku.wcetv.com/hls/gdsatellite.m3u8
 大灣區衛視,http://132.226.28.249:88/move/srp1251.mp4
 大灣區衛視,http://132.226.28.249:88/move/srp1253.mp4
 大灣區衛視,http://132.226.28.249:88/move/srp1239.mp4
@@ -235,6 +211,7 @@ srp1254,https://cc1.wcetv.com/tablet/srp/video/srp1254.mp4
 2019-03-23,http://132.226.28.249:88/move/ZGXQ2/20190323.m3u8
 2019-03-30,http://132.226.28.249:88/move/ZGXQ2/20190330.m3u8
 2019-04-06,http://132.226.28.249:88/move/ZGXQ2/20190406.m3u8
+
 
 
 
